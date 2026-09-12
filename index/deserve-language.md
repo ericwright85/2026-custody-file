@@ -9,6 +9,11 @@ TalkingParents p.251.
 Sana: **“You know I deserve more time with the children, agree to the standard possession order and we can mediate.”**
 Context: follows dispute over alleged video of Rayan driving. She also frames the issue as safety/responsibility. This is both a custody-position statement and a direct “deserve” formulation.
 
+### 2023-08-01 — 50% custody / standard possession
+TalkingParents p.272.
+Sana: **“You need to understand you do not deserve 50% custody time and never did.”** She immediately asks whether Eric will agree to mediation and **“take the standard possession order.”**
+Context: follows disputes over alleged alcohol use, emotional abuse, and co-parenting. High-value continuity statement because it expressly says “never did,” not merely that circumstances had recently changed.
+
 ### 2023-09-22 — 50% custody
 TalkingParents p.230.
 Sana: **“you do not deserve 50% custody”** and says she is concerned for the children’s safety/well-being.
