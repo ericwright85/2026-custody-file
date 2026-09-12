@@ -4,6 +4,11 @@ Purpose: track repeated statements where Sana frames possession/custody as somet
 
 ## Located examples
 
+### 2021-01-06 — pre-cutoff primary custody
+TalkingParents p.614.
+Sana: **“You are insane to think that I deserve anything other than primary custody for the children.”**
+Context: dispute over the 2-2-3 / 50-50 schedule, children’s routine, and whether Rayan’s preferences should be discussed. High-value continuity evidence because it is an explicit parent-centered custody-entitlement statement more than three months before the 4/15/2021 material-change cutoff.
+
 ### 2021-02-11 — pre-cutoff 50/50 custody
 TalkingParents p.504.
 Sana: **“you can still not care about their nutrition and just act like you deserve 50/50 custody which you clearly don't.”**
