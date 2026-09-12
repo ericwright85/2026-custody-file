@@ -4,6 +4,11 @@ Purpose: track repeated statements where Sana frames possession/custody as somet
 
 ## Located examples
 
+### 2019-12-19 — primary-custody entitlement
+TalkingParents p.973.
+Sana: **“So, yes I seek primary custody because I feel like I deserve it.”**
+Context: Sana gives a detailed account of her historical caregiving role—pediatricians, daycare, clothing, school/household responsibilities—and argues Eric’s increased involvement is recent and litigation-driven. Very high-value continuity evidence because it shows both the primary-custody objective and literal “deserve” framing were present at the outset of the original litigation, well before the 4/15/2021 material-change cutoff. Preserve her caregiving rationale with the quote.
+
 ### 2020-04-13 — possession-time entitlement (symmetrical formulation)
 TalkingParents p.849.
 Sana: **“we should work together to co-parent with one another and give each other the space and time that we both deserve with our children during our time of possession.”**
@@ -68,7 +73,7 @@ Context: later 2024 continuation of the same custody-time position.
 Potential theme: repeated parent-centered framing of custody/possession as something Sana **deserves**, sometimes tied to settlement/cooperation, contrasted with Eric’s recurring language that possession decisions should turn on the children’s interests and that he wanted the children to maintain a relationship with their mother.
 
 Do not overstate:
-- Several of these statements are accompanied by safety, school, nutrition, or co-parenting allegations.
+- Several of these statements are accompanied by safety, school, nutrition, caregiving-history, or co-parenting allegations.
 - The 2020-04-13 statement is symmetrical (“we both deserve”), so it should not be treated as equivalent to later one-sided claims for more custody.
 - “Deserve” language can be rhetorically useful but is not by itself proof that Sana acted against the children’s best interests.
 - Best use is as longitudinal pattern evidence, especially alongside concrete instances where cooperation or compromise was conditioned on Eric conceding more possession time.
