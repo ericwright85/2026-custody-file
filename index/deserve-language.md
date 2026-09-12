@@ -4,6 +4,11 @@ Purpose: track repeated statements where Sana frames possession/custody as somet
 
 ## Located examples
 
+### 2021-02-11 — pre-cutoff 50/50 custody
+TalkingParents p.504.
+Sana: **“you can still not care about their nutrition and just act like you deserve 50/50 custody which you clearly don't.”**
+Context: dispute over Aleena’s lunch/nutrition at daycare. High-value continuity statement because it predates the 4/15/2021 material-change cutoff and expressly states that Eric did not deserve 50/50 custody before the current modification period.
+
 ### 2023-07-17 — standard possession / more time
 TalkingParents p.251.
 Sana: **“You know I deserve more time with the children, agree to the standard possession order and we can mediate.”**
@@ -48,7 +53,7 @@ Context: later 2024 continuation of the same custody-time position.
 Potential theme: repeated parent-centered framing of custody/possession as something Sana **deserves**, sometimes tied to settlement/cooperation, contrasted with Eric’s recurring language that possession decisions should turn on the children’s interests and that he wanted the children to maintain a relationship with their mother.
 
 Do not overstate:
-- Several of these statements are accompanied by safety, school, or co-parenting allegations.
+- Several of these statements are accompanied by safety, school, nutrition, or co-parenting allegations.
 - “Deserve” language can be rhetorically useful but is not by itself proof that Sana acted against the children’s best interests.
 - Best use is as longitudinal pattern evidence, especially alongside concrete instances where cooperation or compromise was conditioned on Eric conceding more possession time.
 
