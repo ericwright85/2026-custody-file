@@ -16,19 +16,19 @@ This is the theory Sana may advance: the current possession structure, Eric's pa
 ### Theory B — chronic negative/punitive labeling and parent-child conflict in Sana's home materially contributes
 Eric's competing hypothesis is that Rayan has long experienced a punitive, shaming, or "bad kid" framing from Sana and that this environment may be more relevant to later acting-out behavior than the existence of shared possession itself.
 
-Potential supporting strands already identified:
+Potential supporting strands now identified:
 
-1. **Heidi Zimmerman, 2021:** neutral treating counselor contemporaneously reported Rayan feeling caught in parental conflict, being distressed by negative statements about his father, and wanting to be able to be happy with both parents. Heidi later documented that continued counseling ended when Sana withdrew consent after conflict over Heidi's neutrality/custody role.
-2. **Historical "bad seed" / negative-child framing:** Eric's 2026 interrogatory materials expressly identify a longstanding allegation that Sana referred to Rayan as a "bad seed" and repeatedly told the children they were bad, disrespectful, or did not listen. This is currently an allegation/index lead and must be traced back to the underlying journal entries, recordings, messages, or other source evidence before being treated as established fact.
+1. **Historical child-authored journal entries:** the underlying `young rayan journal entries.zip` has now been directly reviewed. One entry records Rayan saying he was being characterized as a **"bad seed"** while Aleena was described positively as a **"smart cookie"** / **"good egg"**; he wrote that it made him feel bad/mad and that he felt like she did not love him. Another entry describes Aleena smacking him in the face, Mom and Aleena laughing, Mom saying words to the effect of "I didn't say he didn't deserve that," and Mom not correcting Aleena. A separate page describes Mom yelling at him over a backpack incident and his resulting disappointment. The visible pages are undated, so the exact original dates must be authenticated.
+2. **Heidi Zimmerman, 2021:** neutral treating counselor contemporaneously reported Rayan feeling caught in parental conflict, being distressed by negative statements about his father, and wanting to be able to be happy with both parents. Heidi later documented that continued counseling ended when Sana withdrew consent after conflict over Heidi's neutrality/custody role.
 3. **Recent direct child communications:** September 2026 texts from Rayan describe feeling rejected or treated negatively at Sana's home, including loss of house access/key and statements that he need not return. These are direct child communications to Eric but still require careful context and, where possible, corroboration.
-4. **Recordings/evidence folder:** Drive contains recordings labeled `7-26-26 - blaming rayan for divorce - wanting him to pick sides.m4a`, `8-14-26 - sana 13 minutes.m4a`, and older child-related recordings/video. These filenames strongly suggest relevance, but the recordings themselves must be reviewed/transcribed before their substance is relied upon.
+4. **Recordings/evidence folder:** Drive contains recordings labeled `7-26-26 - blaming rayan for divorce - wanting him to pick sides.m4a`, `8-14-26 - sana 13 minutes.m4a`, and older child-related recordings/video. The 7/26/26 source file has been retrieved, but no reliable transcript has yet been produced in this workflow; the filenames are leads, not proof of the audio's precise substance.
 5. **School behavior chronology:** the new school behavior is real and objectively documented. The analytical question is whether home-environment stressors, negative labeling, adult conflict, discipline style, developmental factors, peer conflict, school environment, or some combination better explains the pattern.
 
 ## What this theory can safely support now
 
 The current record supports a **causation challenge** to any simplistic argument that "Rayan has behavior problems, therefore 50/50 or Eric is the cause." There are multiple alternative stressors and longstanding family-conflict dynamics that must be examined before attributing school behavior to the possession schedule.
 
-The evidence does **not yet** support stating as established fact that Sana's parenting caused Rayan's school behavior. That is a hypothesis requiring corroboration and ideally neutral/professional linkage.
+The journal evidence materially strengthens the historical foundation because the `bad seed` concept is now supported by an underlying child-authored source rather than only a later Eric allegation. Even so, the evidence does **not yet** support stating as established fact that Sana's parenting caused Rayan's school behavior. That remains a hypothesis requiring corroboration and ideally neutral/professional linkage.
 
 ## Best evidentiary structure
 
@@ -40,7 +40,7 @@ This will let us test whether there is a repeated longitudinal pattern rather th
 
 ## High-priority next evidence
 
-- underlying young-Rayan journal entries, especially any source containing the "bad seed" language;
+- authenticate the original date/provenance of the young-Rayan journal pages;
 - transcription/review of the 7/26/26 and 8/14/26 Sana recordings;
 - Rayan's text-message folder and direct messages that describe treatment at Sana's house;
 - any therapist, counselor, teacher, or evaluator observations about shame, rejection, anger, fear of disclosure, loyalty conflict, or differential behavior between homes;
