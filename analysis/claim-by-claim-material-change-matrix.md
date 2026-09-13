@@ -112,22 +112,26 @@ The same record also contains positive objective functioning, including strong g
 ### Post-cutoff record
 - positive school reports and all-A evidence at points;
 - transportation disputes;
-- later attendance/tardiness/discipline issues appear in the record and may be genuinely important depending on timing and cause.
+- objective 2025–2026 Willow Wood records now confirm repeated tardies/absences and multiple ISS/OSS events;
+- December 2025 administrator emails document a fight after an attempted peer mediation;
+- teacher/administrator reports document broader off-task, disruptive, and rule-breaking behavior;
+- the reviewed grade report shows passing final grades and promotion rather than academic collapse.
 
 ### Material-change assessment
-**Current classification: unresolved; requires objective records.** The allegation category is old, but actual post-cutoff attendance, discipline, or academic deterioration could constitute genuinely new facts if substantial and attributable to Eric or the schedule.
+**Current classification: genuinely new objective discipline/behavior deterioration; causation unresolved.** The broad school-dispute category is old, but the 2025–2026 discipline pattern is materially more serious than the earlier positive school record and should be treated as a real changed child circumstance rather than rhetorically folded into continuity.
+
+What remains unproven is the connection between that new condition and either Eric specifically or the 50/50 schedule. The school records establish the problem's existence, but not household causation or the appropriate custody remedy.
 
 ### Highest-priority evidence
-- yearly report cards;
-- standardized testing;
+- complete discipline referrals and incident reports;
 - attendance/tardy records by semester;
-- discipline referrals and suspension records;
+- custody-day overlay for each tardy, absence, ISS/OSS event;
 - teacher/counselor communications;
-- custody-day overlay showing which household had possession before each issue;
-- accommodations / special education records if any.
+- later 2026–2027 school records;
+- interventions, counseling, behavioral plans, or evaluation records.
 
 ### Defense presentation
-Use records, not parental descriptions. This category should ultimately be mostly quantitative.
+Acknowledge the documented behavior problem. Do not argue it away. Then require the next analytical steps: cause, household pattern, attempted interventions, and remedy. Emphasize that the reviewed grade report shows the issue is behavior/discipline more clearly than academic collapse.
 
 ---
 
@@ -278,24 +282,27 @@ Use high-value examples where the child's opportunity was concrete and Eric prop
 Some behavioral and emotional concerns already existed, but age naturally changes the form and seriousness of these issues.
 
 ### Post-cutoff record
-Later years include more significant behavioral, school-discipline, autonomy, technology, and parent-preference issues—especially as Rayan enters adolescence.
+By 2025–2026, external school records document repeated suspensions, fights/physical altercations, tardiness, disruptive classroom behavior, off-task conduct, and missing-work concerns. This is no longer merely an allegation in parental messaging.
 
 ### Material-change assessment
-**Current classification: potentially genuinely new and therefore high priority.** A child's maturation, new mental-health needs, serious discipline problems, or changed expressed preferences may be materially different even if parental conflict is old.
+**Current classification: confirmed genuinely newer condition and high priority.** Rayan's adolescent school-behavior deterioration is objectively supported and should be treated as a real change in circumstances affecting the child.
 
-The key is causation and remedy: does the new condition show that Eric's possession should be reduced, or simply that the child needs updated parenting/therapy/school interventions within the existing structure?
+The decisive questions now are **causation and remedy**: does the new condition show that Eric's possession should be reduced, or does it show that Rayan needs stronger coordinated parenting, counseling, behavioral intervention, school support, or other updated interventions within the existing structure?
+
+Current external records do not answer that. They do not identify which household caused the behavior, whether it clusters after one parent's possession, or whether reducing either parent would improve it.
 
 ### Evidence needed
-- discipline chronology;
+- full discipline chronology;
+- custody-day overlay;
 - counseling and evaluator records;
 - teacher observations;
 - parent-by-parent consistency of discipline;
 - child's stated preferences if legally relevant;
-- whether problems occur across both homes or cluster around one environment;
-- interventions attempted and results.
+- interventions attempted and results;
+- later 2026–2027 school record.
 
 ### Defense presentation
-Do not reflexively classify adolescent developments as continuity. This category needs fresh, objective analysis because it is one of the most plausible sources of an actual post-cutoff material change.
+Do not reflexively classify this as continuity. Acknowledge the new problem, then rigorously separate **existence of a changed child condition** from **proof that the requested custody modification is the appropriate response**.
 
 ---
 
@@ -310,8 +317,8 @@ Do not reflexively classify adolescent developments as continuity. This category
 6. mutual allegations of disparagement / involving children in adult conflict.
 
 ## Issues most capable of becoming genuine post-cutoff material changes
-1. objective school attendance/discipline deterioration;
-2. adolescent behavioral or mental-health developments;
+1. **confirmed:** objective 2025–2026 school discipline / adolescent behavior deterioration, with causation and remedy unresolved;
+2. adolescent mental-health developments;
 3. a serious corroborated safety event;
 4. a sustained new pattern of violating joint rights or court orders;
 5. a significant therapist/evaluator recommendation based on new conditions;
@@ -319,6 +326,6 @@ Do not reflexively classify adolescent developments as continuity. This category
 
 # Bottom-line working theory
 
-The TalkingParents record is strongest as a **baseline-and-continuity tool**. It demonstrates that nearly every broad rhetorical category later used against Eric existed before 4/15/2021. The next analytical layer must identify the narrower subset of post-cutoff facts that are actually new, then determine whether those facts are objectively serious enough and sufficiently connected to the children to justify the requested remedy.
+The TalkingParents record is strongest as a **baseline-and-continuity tool**. It demonstrates that nearly every broad rhetorical category later used against Eric existed before 4/15/2021. External school evidence now adds an important qualification: Rayan's 2025–2026 behavioral/discipline deterioration is a genuinely newer objective condition and should not be minimized.
 
-That means the litigation should be organized allegation-by-allegation, not message-by-message.
+That does **not** itself establish that Eric or the 50/50 schedule caused the deterioration, nor that reducing Eric's possession is the appropriate remedy. The case analysis must now distinguish three separate propositions: **new condition**, **cause**, and **remedy**.
