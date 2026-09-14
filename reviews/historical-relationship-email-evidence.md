@@ -1,6 +1,6 @@
 # Historical relationship emails — regulated-vs-conflict contrast
 
-Status: targeted historical Gmail review, primarily 2011–2018. This evidence is potentially useful for context, impeachment, motive/pretext analysis, and longitudinal pattern analysis, but counsel should determine relevance, admissibility, remoteness, and any privilege issues before use.
+Status: targeted historical Gmail review, primarily 2011–2018, plus later contemporaneous references in the TalkingParents record. This evidence is potentially useful for context, impeachment, motive/pretext analysis, and longitudinal pattern analysis, but counsel should determine relevance, admissibility, remoteness, and any privilege issues before use.
 
 ## Why this cluster matters
 
@@ -67,7 +67,21 @@ A targeted Gmail search for `Whiteaker` / `Whitaker` before 2019 located contemp
 
 These items corroborate that Whiteaker was actually involved in the couple's counseling and that Eric was contemporaneously connecting what he learned there to the conflict pattern he was describing. They do **not** prove what Whiteaker said, do not establish that Whiteaker endorsed Eric's characterization, and do not independently prove the remembered `abandonment wound` formulation.
 
-### Highest-value follow-up
+## February 2, 2022 — contemporaneous TalkingParents reference to the exact concept
+
+A later TalkingParents message materially strengthens the chronology of Eric's recollection. On February 2, 2022, during a dispute about Rayan, Eric wrote to Sana:
+
+`We discussed your fear of abandonment in marriage counseling, and how it causes you to act in certain ways that promote abandonment.`
+
+He then referred to `fears of abandonment that stem from your childhood.`
+
+### Why this matters
+
+This does **not** independently prove that Dr. Whiteaker made that formulation, because the words are Eric's. But it does show that in 2022 — years before the current litigation theory was being assembled — Eric was already memorializing the same specific marriage-counseling concept in a timestamped co-parent communication. That is substantially stronger than a recollection first appearing in 2026.
+
+The immediate exchange does not contain a Sana admission or denial of the counseling characterization; her response returns to the underlying transportation/legal dispute. Therefore the safe use is **contemporaneous corroboration of Eric's longstanding recollection**, not proof that Sana agreed with the formulation.
+
+## Highest-value follow-up
 
 Search for:
 
@@ -127,9 +141,10 @@ What **has** been located is partial written corroboration of several components
 7. Sana later describes herself as `desperate for validation for someone to accept me`.
 8. Contemporaneous Eric communications describe the same retraction cycle years before litigation.
 9. The written record confirms the couple had therapy and an agreed relational framework.
-10. Dr. David Whiteaker is now identified by name, and contemporaneous October 2018 emails corroborate active counseling with him and Eric's then-current reliance on what he understood from those sessions.
+10. Dr. David Whiteaker is identified by name, and contemporaneous October 2018 emails corroborate active counseling with him and Eric's then-current reliance on what he understood from those sessions.
+11. A February 2, 2022 TalkingParents message records Eric explicitly referring to `fear of abandonment` discussed in marriage counseling and behavior that `promote[s] abandonment`, showing the specific formulation was part of his documented understanding years before the current case presentation.
 
-That is significant corroboration, but it should be described as **component-level corroboration**, not as documentary proof of the counselor's exact abandonment-wound formulation.
+That is significant corroboration, but it should be described as **component-level corroboration plus a pre-litigation contemporaneous memorialization of the exact counseling concept**, not as documentary proof of the counselor's exact words.
 
 ## Important counter-context
 
