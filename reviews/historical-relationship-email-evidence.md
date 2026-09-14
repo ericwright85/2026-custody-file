@@ -1,12 +1,12 @@
 # Historical relationship emails — regulated-vs-conflict contrast
 
-Status: targeted historical Gmail review, primarily 2013–2018. This evidence is potentially useful for context, impeachment, motive/pretext analysis, and longitudinal pattern analysis, but counsel should determine relevance, admissibility, remoteness, and any privilege issues before use.
+Status: targeted historical Gmail review, primarily 2011–2018. This evidence is potentially useful for context, impeachment, motive/pretext analysis, and longitudinal pattern analysis, but counsel should determine relevance, admissibility, remoteness, and any privilege issues before use.
 
 ## Why this cluster matters
 
-Eric has long described a relationship pattern in which Sana's assessments of him changed sharply during conflict: hostile statements in moments of anger, followed by calmer statements that did not reflect the same global view of him. A targeted search of historical emails found some contemporaneous support for parts of that recollection.
+Eric has long described a relationship pattern in which Sana's assessments of him changed sharply during conflict: hostile statements in moments of anger, followed by calmer statements that did not reflect the same global view of him. A targeted search of historical emails found meaningful contemporaneous support for parts of that recollection.
 
-The evidence does **not** establish that every later accusation was knowingly false. It does support a narrower proposition: Sana herself sometimes distinguished conflict-language from her stable/core belief, acknowledged saying things for the purpose of hurting Eric or changing his behavior, and at other times expressed strongly positive assessments of his parenting/care.
+The evidence does **not** establish a diagnosis, and it does **not** establish that every later accusation was knowingly false. It does support a narrower proposition: Sana herself sometimes distinguished conflict-language from her stable/core belief, acknowledged saying things for the purpose of hurting Eric or changing his behavior, described intense needs for validation/acceptance, and at other times expressed strongly positive assessments of his parenting/care.
 
 ## March 2014 — Sana's own analysis of conflict escalation
 
@@ -31,6 +31,24 @@ This is contemporaneous, self-authored evidence of several concepts that later b
 - retrospective recognition that the conduct was not appropriate.
 
 This is stronger than Eric merely testifying today that the pattern existed. However, it remains one historical episode and should not be stretched into proof that all later allegations are fabricated.
+
+## Earlier chat evidence — post-conflict retraction / remorse
+
+A historical Gmail chat contains Sana telling Eric: `I really really didn't mean to hurt you. If I caused you pain I'm sorry.` The surrounding chat returns quickly to love, missing him, wanting him home, and concern that he not be unhappy.
+
+Another historical chat preserved by Eric records him confronting a recurring cycle after a severe conflict statement: `Please do not change it 2 days from now and say that you didn't mean it.` Standing alone, Eric's statement is not proof of Sana's conduct, but it is contemporaneous evidence that he was already describing the same conflict/retraction cycle years before the divorce.
+
+### Significance
+
+The first item is direct party-authored remorse after conflict. The second is not an admission by Sana, but may be useful as a contemporaneous corroborating marker that Eric's present recollection of a recurring `said in anger → later retracted/contextualized` cycle is not newly invented for litigation.
+
+## 2018 — self-described validation / acceptance distress
+
+During the late-marriage conflict in October 2018, Sana wrote that she was `tired of feeling trapped and desperate for validation for someone to accept me.` In a separate exchange she wrote that she did not like `the person I become around you` while also attributing that change to her view of how Eric treated her.
+
+### Significance and caution
+
+These statements should **not** be converted into a psychological diagnosis. They are relevant, if at all, because they are Sana's own descriptions of intense emotional needs and state-dependent behavior during relational conflict. They may help counsel evaluate whether the older record contains a self-described mechanism consistent with Eric's recollection of the counseling formulation, but they are not equivalent to proof of an `abandonment wound` or any clinical disorder.
 
 ## February 2013 — positive pre-parenthood assessment
 
@@ -73,7 +91,8 @@ Counsel should decide whether this cluster is useful for:
 3. longitudinal evidence of involving Rayan in adult conflict;
 4. contextualizing the later `deserve more custody` / conflict-escalation record;
 5. evaluating whether pre-2019 communications are too remote or collateral;
-6. identifying any evidentiary or privilege concerns relating to marital counseling discussions (the emails reviewed here are direct party communications; counseling-session recollections should be analyzed separately).
+6. determining whether the historical conflict/retraction evidence can properly support a credibility/pretext argument without turning into impermissible psychological speculation;
+7. identifying any evidentiary or privilege concerns relating to marital counseling discussions (the emails reviewed here are direct party communications; counseling-session recollections should be analyzed separately).
 
 ## Search scope / addresses identified
 
@@ -84,4 +103,4 @@ Historical Gmail searches confirmed these Sana addresses in Eric's mailbox:
 - `sana_06@sbcglobal.net`
 - older secondary address observed: `sana_akhtar@sbcglobal.net`
 
-Further targeted searches should focus on phrases around apologies, anger, `didn't mean`, `hurt you`, `great dad/father`, parenting praise, counseling, abandonment, and post-conflict retractions rather than treating ordinary household email traffic as evidence.
+Further targeted searches should focus on phrases around apologies, anger, `didn't mean`, `hurt you`, `great dad/father`, parenting praise, counseling, abandonment, validation, acceptance, fear of rejection, pushing away, and post-conflict retractions rather than treating ordinary household email traffic as evidence.
