@@ -21,6 +21,27 @@ The strongest defensible formulation is therefore not "Sana believes none of her
 
 > Sana's stated reasons for modification should be tested against her own longitudinal conduct. Many of the same safety, responsibility, school, medical, co-parenting, and 50/50 objections existed before the current order, while her repeated custody-outcome language and conditional-cooperation statements provide a competing explanation for the litigation. The question is whether there is a genuinely new, substantial child-centered condition now requiring the requested modification.
 
+## Historical regulated / dysregulated admission theory
+
+Eric reports a longstanding marital/counseling pattern, dating back roughly a decade or more, in which Sana would make harsh accusations when emotionally dysregulated and later, when regulated, tell Eric that she did not actually hold those negative beliefs about him and regarded him as a loving, involved father and husband. Eric recalls Sana explaining that in anger she would say things intended to hurt the people closest to her, not because she believed the statements when regulated. He also recalls marriage counseling in which this pattern was discussed in terms of fear of abandonment / an "abandonment wound," with the practical instruction that Eric should not treat dysregulated statements as reliable expressions of her settled view.
+
+Important evidentiary status:
+
+- This is presently **Eric's recollection**, not yet corroborated by a writing, recording, therapist record, or testimony.
+- It should not be presented as a diagnosis of Sana or as a proven clinical mechanism.
+- If corroborated, however, it could become unusually probative on **pretext / credibility / state-of-belief**, because it would provide historical context for why recurring hostile accusations may not reflect her settled assessment of Eric's parenting.
+- The particularly useful proposition would not be "she never means anything she says when angry." It would be narrower: **Sana herself historically acknowledged a pattern of making severe accusations in anger for the purpose of hurting Eric, while later affirming substantially different views when regulated.**
+
+Potential corroboration sources to seek:
+
+- marriage-counseling records, intake forms, treatment summaries, or therapist notes;
+- emails/texts in which Sana later retracts or contextualizes hostile statements;
+- any messages containing phrases like "you know I don't mean that," "I was mad," "I say things when I'm angry," "I wanted to hurt you," or similar;
+- testimony or records from the former marriage counselor, subject to privilege/admissibility analysis;
+- contemporaneous journals or communications by Eric documenting the counseling instruction at the time.
+
+If corroborated, this could bridge Eric's present pretext theory with historical evidence rather than leaving the theory as inference alone.
+
 ## Motive / pretext theory
 
 Eric believes much of Sana's presentation is pretextual and rooted in longstanding anger, identity conflict, traditional/gender-role expectations about motherhood, and a need to characterize him negatively. Those are **Eric's interpretations**, not facts that should be asserted as psychological conclusions unless supported by admissible evidence or expert testimony.
