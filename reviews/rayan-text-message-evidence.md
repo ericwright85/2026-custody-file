@@ -1,6 +1,6 @@
 # Rayan text-message evidence review
 
-Status: focused review of the `discovery 2026/text messages/rayan` Drive folder. These screenshots are direct child-to-parent communications, but message dates are not always visible in the screenshots. Drive modified timestamps reflect file handling, not necessarily the original message date. Do not infer exact dates unless corroborated elsewhere.
+Status: focused review of the `discovery 2026/text messages/rayan` Drive folder and adjacent Rayan screenshots. These screenshots are direct child-to-parent communications, but message dates are not always visible. Drive modified timestamps reflect file handling, not necessarily the original message date. Do not infer exact dates unless corroborated elsewhere.
 
 ## Folder contents reviewed
 
@@ -8,8 +8,8 @@ Status: focused review of the `discovery 2026/text messages/rayan` Drive folder.
 - `mom grumpy turned off everything.jpg`
 - `Rayan Text Message - verbal abuse.jpg`
 - `Rayan Text Message - slapped by his mom.jpg`
-
-Other folder items remain available for review.
+- `rayan - mom making him feel bad.PNG`
+- `rayan phone call 1am.PNG`
 
 ## Key messages
 
@@ -45,16 +45,34 @@ Significance:
 - Rayan includes a fact unfavorable to himself (spilling hot tea), which may matter when assessing spontaneity/completeness, but this is still a child report, not independent proof of the number or nature of contacts.
 - The evidence should be compared to any admissions/denials in TalkingParents, medical records, photos, witness accounts, or later counselor reports.
 
+### "Sitting next to me making me feel bad every second"
+A separate iMessage screenshot shows Rayan saying he would rather be at Eric's house, then acknowledging that he himself "slipped up" and did not come outside. When Eric asks why, Rayan answers: `Just something` / `Mom` / `Sitting next to me making me feel bad every second`.
+
+Significance:
+- Useful because Rayan first accepts some responsibility for the underlying situation before describing the emotional environment.
+- This is a spontaneous report of persistent guilt/shame pressure rather than simply a preference statement.
+- It fits the older journal/"bad seed" evidence and later rejection/fear reports, but it still does not independently establish the underlying adult conduct.
+
+### 1 a.m. FaceTime/contact evidence
+The separate `rayan phone call 1am.PNG` screenshot shows an active FaceTime/video call at approximately 1:09 a.m. involving Rayan and Eric. The screenshot itself proves late-night contact occurred; it does not show why Rayan called, what was discussed, or which household conditions prompted the call.
+
+Significance:
+- Potentially corroborates that Rayan sought direct contact with Eric very late at night while away from him.
+- Do **not** characterize it as a distress call without the call content or contemporaneous messages establishing that.
+- If paired with texts before/after the call, it could become stronger evidence of whom Rayan turned to during home conflict.
+
 ## Longitudinal pattern emerging
 
 Taken together with the young-Rayan journal pages and Heidi Zimmerman evidence, these screenshots support a recurring child-experience pattern rather than a single isolated complaint:
 
 1. negative identity labeling / "bad" framing;
 2. perceived withdrawal of love or rejection when in trouble;
-3. fear of anger/punishment;
-4. communications restriction or secrecy around contacting Eric;
-5. child reporting physical discipline;
-6. child describing distress while still seeking connection with both parents.
+3. guilt/shame pressure and statements that make him feel bad;
+4. fear of anger/punishment;
+5. communications restriction or secrecy around contacting Eric;
+6. child reporting physical discipline;
+7. repeated preference to seek contact/support from Eric during conflict;
+8. child describing distress while still seeking connection with both parents.
 
 This pattern can be relevant to Rayan's later school behavior as a **competing causation hypothesis**. It does not by itself establish that Sana's parenting caused the discipline problems.
 
@@ -65,11 +83,11 @@ This pattern can be relevant to Rayan's later school behavior as a **competing c
 - Context immediately before each message is incomplete.
 - Normal parental discipline (screen limits, device restrictions, grounding) should not be conflated with emotional maltreatment without the surrounding context.
 - Exact wording/number of alleged slaps should be treated as Rayan's report unless corroborated.
+- The 1 a.m. screenshot proves contact timing, not distress or call substance.
 
 ## Follow-up
 
-- Review the remaining Rayan-folder images and the separate 1 a.m. phone-call screenshot.
 - Match each screenshot to original phone metadata / message export if available to establish dates.
 - Compare the slap allegation to TalkingParents, counseling records, and any contemporaneous communications from Sana.
-- Review the 7/26/26 and 8/14/26 recordings for direct adult-child interaction evidence.
+- Review/transcribe the 7/26/26 and 8/14/26 recordings for direct adult-child interaction evidence.
 - Overlay major school-discipline dates against custody periods and contemporaneous home-conflict reports.
