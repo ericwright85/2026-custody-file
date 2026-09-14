@@ -21,26 +21,43 @@ The strongest defensible formulation is therefore not "Sana believes none of her
 
 > Sana's stated reasons for modification should be tested against her own longitudinal conduct. Many of the same safety, responsibility, school, medical, co-parenting, and 50/50 objections existed before the current order, while her repeated custody-outcome language and conditional-cooperation statements provide a competing explanation for the litigation. The question is whether there is a genuinely new, substantial child-centered condition now requiring the requested modification.
 
-## Historical regulated / dysregulated admission theory
+## Historical regulated / conflict-state contrast
 
-Eric reports a longstanding marital/counseling pattern, dating back roughly a decade or more, in which Sana would make harsh accusations when emotionally dysregulated and later, when regulated, tell Eric that she did not actually hold those negative beliefs about him and regarded him as a loving, involved father and husband. Eric recalls Sana explaining that in anger she would say things intended to hurt the people closest to her, not because she believed the statements when regulated. He also recalls marriage counseling in which this pattern was discussed in terms of fear of abandonment / an "abandonment wound," with the practical instruction that Eric should not treat dysregulated statements as reliable expressions of her settled view.
+Eric has long described a marital/counseling pattern in which Sana's assessments of him changed sharply during conflict: severe or hurtful statements in moments of anger, followed later by calmer statements that did not reflect the same global view of him. A targeted historical Gmail review now provides **partial contemporaneous corroboration** of that broader recollection.
 
-Important evidentiary status:
+### What is now corroborated
 
-- This is presently **Eric's recollection**, not yet corroborated by a writing, recording, therapist record, or testimony.
-- It should not be presented as a diagnosis of Sana or as a proven clinical mechanism.
-- If corroborated, however, it could become unusually probative on **pretext / credibility / state-of-belief**, because it would provide historical context for why recurring hostile accusations may not reflect her settled assessment of Eric's parenting.
-- The particularly useful proposition would not be "she never means anything she says when angry." It would be narrower: **Sana herself historically acknowledged a pattern of making severe accusations in anger for the purpose of hurting Eric, while later affirming substantially different views when regulated.**
+A March 2014 email thread written by Sana while analyzing one of their fights contains several unusually direct admissions:
 
-Potential corroboration sources to seek:
+- she described a small dispute escalating into a much larger conflict;
+- she wrote that she `said something to hurt you` — specifically, `I don't wanna be with you` — and later clarified that the statement did not mean she actually wanted the relationship to end;
+- in discussing calling Eric an `ass`, she essentially asked him to recognize that she did not truly believe at her core that this defined him;
+- she admitted refusing to leave him alone `out of spite`;
+- she acknowledged bringing young Rayan into the adult dispute and later wrote: `In my mind I just wanted you to stop that behavior that kills me inside and for that reason I used Rayan.`
 
-- marriage-counseling records, intake forms, treatment summaries, or therapist notes;
-- emails/texts in which Sana later retracts or contextualizes hostile statements;
-- any messages containing phrases like "you know I don't mean that," "I was mad," "I say things when I'm angry," "I wanted to hurt you," or similar;
-- testimony or records from the former marriage counselor, subject to privilege/admissibility analysis;
-- contemporaneous journals or communications by Eric documenting the counseling instruction at the time.
+Separate emails also show sharply positive assessments of Eric's parenting/care:
 
-If corroborated, this could bridge Eric's present pretext theory with historical evidence rather than leaving the theory as inference alone.
+- February 2013: Sana listed reasons Eric would be a `great daddy`, including his `love and care towards Rayan` and his preparation for Rayan;
+- October 2017: she wrote that she loved `how great you are with her and how much you care for her` regarding six-month-old Aleena;
+- January 2018: she wrote that she loved how Eric took care of `me and the kids every day` and said his `willingness` and `loving nature` amazed her.
+
+These communications are summarized in `reviews/historical-relationship-email-evidence.md`.
+
+### What is **not** yet corroborated
+
+Eric also recalls marriage counseling in which this broader pattern was discussed in terms of fear of abandonment / an `abandonment wound`, and recalls Sana saying more explicitly that she says severe things in anger to hurt those closest to her but does not hold those views when regulated. That counseling-specific recollection remains uncorroborated in the evidence reviewed so far.
+
+It should not be presented as a diagnosis of Sana or as a proven clinical mechanism unless supported by admissible records/testimony.
+
+### Why this may matter
+
+The potentially useful proposition is now narrower and stronger than a pure memory claim:
+
+> Sana's own historical communications show that some severe conflict statements were intentionally hurtful, were later distinguished from her stable/core view, and coexisted with very positive assessments of Eric as a father and caregiver.
+
+That does **not** establish that every later custody allegation is false or knowingly fabricated. It may, however, be relevant to impeachment, context, credibility, or the weight assigned to sweeping conflict-state accusations — especially if Sana presents her negative assessment of Eric as historically consistent.
+
+Counsel should determine relevance, admissibility, remoteness, and any privilege issues before using this cluster.
 
 ## Motive / pretext theory
 
@@ -52,6 +69,7 @@ The safer trial formulation is behavioral:
 - attempts to condition peace, compromise, activities, or cooperation on increased custody;
 - recurring allegations that substantially predate the 4/15/2021 material-change anchor;
 - conduct inconsistent with an assertion that Eric is actually too unsafe or incapable to exercise substantial parenting time;
+- historical communications showing conflict-state accusations can differ from Sana's calmer assessments;
 - evidence that Eric repeatedly offers transportation, flexibility, additional mother-child contact, counseling, swaps, and continued participation in activities.
 
 If counsel believes gender-role bias is legally or strategically relevant, identify the specific statements/conduct that support it and avoid turning it into an unsupported motive diagnosis.
