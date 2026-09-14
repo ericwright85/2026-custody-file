@@ -56,6 +56,27 @@ Sana also forwarded Eric a CFISD `Anger Management` parent-training notice in Oc
 
 These statements should **not** be converted into a psychological diagnosis. They are relevant, if at all, because they are Sana's own descriptions of intense emotional needs and state-dependent behavior during relational conflict. They may help counsel evaluate whether the older record contains a self-described mechanism consistent with Eric's recollection of the counseling formulation, but they are not equivalent to proof of an `abandonment wound` or any clinical disorder.
 
+## Counselor identified — Dr. David Whiteaker
+
+Eric identifies the marriage counselor as **Dr. David Whiteaker**.
+
+A targeted Gmail search for `Whiteaker` / `Whitaker` before 2019 located contemporaneous evidence that the parties were actively using him in October 2018:
+
+- on October 17, 2018, Eric emailed Sana asking whether they could `go to whitaker later today` or around 4 if there was an opening;
+- in the same day's larger marital-conflict thread, Eric wrote that he understood Sana's reactions `even better after Whiteaker`.
+
+These items corroborate that Whiteaker was actually involved in the couple's counseling and that Eric was contemporaneously connecting what he learned there to the conflict pattern he was describing. They do **not** prove what Whiteaker said, do not establish that Whiteaker endorsed Eric's characterization, and do not independently prove the remembered `abandonment wound` formulation.
+
+### Highest-value follow-up
+
+Search for:
+
+1. direct emails to/from Dr. Whiteaker or his practice;
+2. appointment confirmations, intake forms, invoices, or calendar notices revealing his email/domain/practice name;
+3. emails sent immediately after sessions summarizing `what Whiteaker said`, homework, exercises, rules, or agreed formulations;
+4. Sana-authored references to `Whiteaker said`, `Dr. Whiteaker`, `therapy`, `our counselor`, `abandonment`, `validation`, `rejection`, `pushing away`, or similar concepts;
+5. any records counsel believes can lawfully and ethically be sought from the counselor, subject to privilege/confidentiality analysis.
+
 ## February 2013 — positive pre-parenthood assessment
 
 In an email titled `Hi`, Sana listed reasons she believed Eric would be a `great daddy`, including his `love and care towards Rayan` and his commitment to preparing for Rayan.
@@ -88,7 +109,8 @@ A broad Gmail search was run across the known Sana addresses for variations of:
 - `push away`, `afraid you'll leave`, `scared you'll leave`;
 - `didn't mean`, `don't mean it`, `said it because`, `to hurt you`;
 - `therapy`, `counselor`, `wound`, `validation`, `acceptance`, `rejection`;
-- `anger`, `spite`, `being mean`, `sorry I hurt you`.
+- `anger`, `spite`, `being mean`, `sorry I hurt you`;
+- `Whiteaker`, `Whitaker`.
 
 ### Current result
 
@@ -104,7 +126,8 @@ What **has** been located is partial written corroboration of several components
 6. Sana admits using Rayan in the dispute in order to change Eric's behavior.
 7. Sana later describes herself as `desperate for validation for someone to accept me`.
 8. Contemporaneous Eric communications describe the same retraction cycle years before litigation.
-9. The written record confirms the couple had therapy and an agreed relational framework, but the exact counseling formulation has not yet been found in writing.
+9. The written record confirms the couple had therapy and an agreed relational framework.
+10. Dr. David Whiteaker is now identified by name, and contemporaneous October 2018 emails corroborate active counseling with him and Eric's then-current reliance on what he understood from those sessions.
 
 That is significant corroboration, but it should be described as **component-level corroboration**, not as documentary proof of the counselor's exact abandonment-wound formulation.
 
@@ -126,7 +149,7 @@ Counsel should decide whether this cluster is useful for:
 4. contextualizing the later `deserve more custody` / conflict-escalation record;
 5. evaluating whether pre-2019 communications are too remote or collateral;
 6. determining whether the historical conflict/retraction evidence can properly support a credibility/pretext argument without turning into impermissible psychological speculation;
-7. identifying any evidentiary or privilege concerns relating to marital counseling discussions (the emails reviewed here are direct party communications; counseling-session recollections should be analyzed separately).
+7. identifying any evidentiary or privilege concerns relating to marital counseling discussions, including whether any Whiteaker records or testimony could properly be obtained or used.
 
 ## Search scope / addresses identified
 
@@ -137,4 +160,4 @@ Historical Gmail searches confirmed these Sana addresses in Eric's mailbox:
 - `sana_06@sbcglobal.net`
 - older secondary address observed: `sana_akhtar@sbcglobal.net`
 
-Further targeted work should focus less on broad keyword searches and more on: full-thread review around major 2011–2014 fights; identifying the marriage counselor by name; searching both parties' emails for that counselor's address/name; and locating any post-session summaries or homework that might preserve the exact therapeutic formulation.
+Further targeted work should focus less on broad keyword searches and more on full-thread review around major fights, direct Whiteaker/practice identifiers, appointment records, and post-session summaries or homework that might preserve the exact therapeutic formulation.
