@@ -1,50 +1,87 @@
 # Wright v. Wright — Attorney Briefing Room
 
-> ## The question that should organize the modification case
-> **What materially changed after 4/15/2021 — and why would that new condition be solved by reducing Eric's rights, possession, or authority?**
-
-> ## The question that should organize the enforcement case
-> **Is the 2026 summer withholding an isolated calendar dispute — or the latest event in a documented multi-year pattern of possession misunderstandings, announced refusals, and actual failures to surrender the children?**
-
-Everything in this repository is being organized as a **working case file for counsel**: theory → allegations → proof → depositions → witnesses → exhibits → trial use. The goal is not to hand Bruman/Erika a document dump. It is to hand them an assembled case they can attack, correct, and refine.
-
-**If you have five minutes, read only this page.** If something catches your attention, click it.
+> **Purpose:** a working, auditable case file for counsel — not a document dump.
+>
+> **Current stage:** discovery / evidence synthesis → **Sana deposition preparation** → witness / exhibit / trial architecture.
+>
+> **How to use this repository:** read this page in ~5 minutes, then click only where something matters to you.
 
 ---
 
-# If you remember only four things
+# 60-second orientation for Bruman / Erika
+
+There are **two live lanes**.
+
+## Modification
+
+> **What materially changed after 4/15/2021 — and why would that new condition be solved by reducing Eric's rights, possession, or authority?**
+
+The current evidence model suggests that many of Sana's major allegations and her desired custody outcome **predate the operative order**. The strongest genuinely newer fact is Rayan's 2025–26 behavioral deterioration. That deterioration is real; its **cause** and the **remedy nexus** are not yet established.
+
+## Enforcement
+
+> **Is the 2026 summer withholding an isolated calendar dispute — or the latest event in a documented multi-year pattern of decree disputes, announced refusals, and actual failures to surrender possession?**
+
+The record currently identifies four significant possession events — 2021, 2022, 2025, and 2026 — surrounded by repeated interpretation disputes, threatened deviations, and inconsistent treatment of decree deadlines. Counsel should decide which are legally actionable and which are useful only as context / pattern / notice.
+
+## Immediate next procedural opportunity: Sana's deposition
+
+The deposition should turn broad allegations into testable propositions:
+
+`WHAT HAPPENED? → WHEN DID IT BEGIN? → WHAT PROVES IT? → WHAT HARM RESULTED? → WHAT CAUSED IT? → WHY DOES HER REQUESTED REMEDY FIX IT?`
+
+[→ Sana deposition control matrix](depositions/sana-deposition-control-matrix.md)  
+[→ Full deposition plan](depositions/sana-deposition-plan.md)
+
+---
+
+# What I need from counsel right now
+
+Two inputs will materially improve the model immediately:
+
+1. **Sana's discovery responses / production** — especially her interrogatory answers identifying what she claims materially changed, the factual basis for modification, witnesses, documents, experts, and requested relief.
+2. **Legal calibration** — the actual Texas standards Bruman wants applied for material change, best interest, remedy nexus, enforcement / contempt, conservatorship rights, admissibility, and child preference / behavior.
+
+[→ Legal decision rules — attorney input requested](law/decision-rules.md)
+
+If a legal rule, fact, or piece of evidence breaks the current theory, **please break it**. The repository is designed to be corrected.
+
+---
+
+# The case in four propositions
 
 ## 1. The requested custody outcome appears to predate the alleged reasons for it
 
-Before the operative 4/15/2021 order, Sana was already saying she should have primary custody, that she **deserved** it, and that Eric did not deserve 50/50.
+Before 4/15/2021, Sana was already asserting that she should have primary custody, that she **deserved** it, and that Eric did not deserve 50/50.
 
-After the order, many of the same allegation categories continue: safety, school, medical care, judgment, co-parenting, possession conflict, marijuana/gambling, disparagement, and whether equal possession is appropriate.
+Many later allegation categories also existed before the order: safety / supervision, school, medical care, judgment, co-parenting, marijuana / gambling, possession conflict, disparagement, and whether equal possession was appropriate.
 
-That creates a chronology problem:
+That creates the threshold chronology question:
 
-> **Did a new material condition create the desire for modification — or did the desired custody outcome exist first, with later allegations supplying the argument?**
+> **Did a new material condition create the desire for modification — or did the desired custody outcome already exist, with later events becoming the argument for it?**
 
-We do **not** need to prove Sana's psychology to make that chronology matter.
+This does not require proving anyone's psychology.
 
 [→ Material-change synthesis](analysis/material-change-synthesis.md)  
+[→ Claim-by-claim material-change matrix](analysis/claim-by-claim-material-change-matrix.md)  
 [→ “Deserve more custody” chronology](index/deserve-language.md)
 
 ---
 
-## 2. There is one genuinely important newer fact: Rayan's behavior deteriorated
+## 2. Rayan's deterioration is real; causation is the unresolved question
 
-The 2025–26 school record shows a real increase in tardies, discipline, fights, ISS/OSS, and disruptive behavior.
+The 2025–26 school record documents a genuine increase in tardies, discipline, fights, ISS / OSS, and disruptive behavior.
 
-That is probably the strongest candidate for a genuine post-cutoff changed condition.
+That may be the strongest genuine post-order changed condition in the case.
 
-But the present record does **not** answer:
+But the current record does **not** establish either of the two propositions necessary to jump from that fact to Sana's requested custody result:
 
-> **What caused it?**  
-> **Why would less time or fewer rights for Eric solve it?**
+> **Eric / equal possession caused the deterioration.**  
+> **Reducing Eric's possession or authority would remedy it.**
 
-The competing record includes neutral-counselor evidence that Rayan felt caught between parents, old child-authored writings about being a `bad seed` / feeling unloved, later child messages describing fear/rejection, and other evidence of emotional pressure that does not map neatly onto a `50/50 caused this` theory.
+The competing record includes neutral counselor evidence that Rayan felt caught between parents, child-authored writings describing negative labeling / feeling unloved, later child messages describing fear and rejection, peer conflict, adolescent behavior, and other plausible contributing factors.
 
-So the school problem should not be minimized — it should be **causally analyzed**.
+The right response is not to minimize Rayan's problems. It is to analyze them causally.
 
 [→ Rayan behavior / causation analysis](analysis/rayan-behavior-causation-hypotheses.md)  
 [→ School records](reviews/2025-2026-rayan-school-records.md)  
@@ -53,208 +90,198 @@ So the school problem should not be minimized — it should be **causally analyz
 
 ---
 
-## 3. The decree-compliance record may be a pattern, not a single 2026 event
+## 3. The enforcement case appears longitudinal, not isolated
 
-The enforcement evidence now deserves its own lane.
+The strongest possession-event anchors presently identified are:
 
-The strongest current possession-event anchors are:
+| Date | Event | Current factual classification |
+|---|---|---|
+| **6/24/2021** | children unavailable at ordered pickup; Eric documented Sana saying she would not surrender until later | strong actual-failure candidate; verify decree / prior enforcement |
+| **3/20/2022** | Spring Break return dispute followed by delayed / chaotic Walmart exchange | actual exchange event; legal classification needs decree + timing proof |
+| **8/3–8/9/2025** | Sana announced she would not appear, retained children while in Colorado during Eric's designated week; replacement week later accepted | strong actual-withholding candidate |
+| **8/2/2026** | no agreed schedule change; Eric appeared; children not surrendered; Sana told him to file / later said he did not deserve the time | current enforcement event |
 
-- **6/24/2021** — failed morning pickup / children not available; Eric says Sana told him she would not surrender until 4 p.m.;
-- **3/20/2022** — Spring Break return dispute followed by the Walmart exchange Eric contemporaneously described as circling the lot while hurriedly finishing Rayan's haircut;
-- **8/3–8/9/2025** — Sana expressly said she would not be at Walmart, retained the children while in Colorado during Eric's designated week, then Eric accepted replacement possession instead of immediately filing enforcement;
-- **8/2/2026** — after months of notice and no agreement to alter the schedule, the children were not surrendered; Sana told Eric he could file and later wrote that he did not deserve the time.
+The surrounding record matters too: holiday-rollover disputes, police / court threats, announced refusals, competing summer designations, and repeated disagreement over whether one parent can unilaterally redefine possession.
 
-Around those events is a longer record of decree interpretation disputes, police/court threats, announced refusals, and competing summer designations.
-
-One comparator may be particularly useful: in **2023**, Eric designated his July week **two days late** and Sana insisted on strict compliance with the April 1 deadline. In **2026**, Sana attempted to change her own summer designation after the relevant deadlines and eventually wrote:
+A potentially useful comparator: in **2023**, Eric designated his July week **two days late** and Sana insisted on strict April 1 compliance. In **2026**, Sana attempted to change her own summer designation after the applicable timing had passed and wrote:
 
 > `you will take what I give you or you can file with Bruman`
 
-That does not automatically make every disputed exchange contempt. It does give counsel a chronology worth examining under the exact decree language.
+That does **not** mean every disagreement is contempt. The chronology deliberately distinguishes actual noncompliance, threatened noncompliance, genuine ambiguity, and unsupported accusations.
 
 [→ Decree compliance / enforcement chronology](enforcement/decree-compliance-chronology.md)
 
 ---
 
-## 4. Eric's desired end state is not “win the kids”
+## 4. Eric's requested end state is not “win the kids”
 
-Eric does not want to reduce the children's relationship with Sana. He wants the children to have substantially the same access to both parents — but without ordinary childhood decisions constantly becoming custody transactions.
+Eric does not seek to eliminate or materially diminish the children's relationship with Sana.
 
-His complaint is not that the current schedule gives Sana too much time. His complaint is that he can offer the children flexibility only during his own possession periods, which means the children do not actually have flexibility.
+His stated objective is closer to this:
 
-Aleena has described feeling like **“a ball”** being passed between households. The children appear to want something simpler: access to both parents, less pressure, less ownership language, and more ability to live ordinary lives.
+> **Preserve meaningful access to both parents while reducing the ability of adult conflict, possession accounting, or unilateral vetoes to control ordinary childhood decisions.**
 
-If the court ever concludes that additional legal authority is warranted, Eric's stated purpose would be to use that authority to **de-escalate possession as leverage**, not to exclude their mother.
+Aleena has described feeling like **“a ball”** being passed between households. Eric's position is that greater legal authority, if warranted at all, should be used to create practical flexibility — not to exclude their mother.
 
-> **What Texas conservatorship structure, if any, can create child-centered flexibility without unnecessarily diminishing either parent-child relationship?**
+That leaves an important legal-design question for counsel:
+
+> **What conservatorship structure, rights, or tie-breakers could solve the demonstrated problem without unnecessarily reducing either parent-child relationship?**
 
 [→ Case theory / remedy framing](notes/case-theory.md)
 
 ---
 
-# Two decision trees
+# Two decision models
 
 ## Modification
 
 ```mermaid
 flowchart TD
-    A[What changed after 4/15/2021?] --> B{Was the condition genuinely new?}
-    B -- No --> C[Continuity problem: old conflict is not itself a new material change]
-    B -- Yes --> D{Objective impact on the child?}
+    A[What changed after 4/15/2021?] --> B{Was it genuinely new?}
+    B -- No --> C[Continuity problem]
+    B -- Yes --> D{Objective child impact?}
     D -- No / weak --> E[Modification theory weakens]
-    D -- Yes --> F{What caused the condition?}
-    F -- Unknown / competing causes --> G[Do not assume possession schedule or Eric caused it]
-    F -- Supported cause --> H{Does the requested remedy actually address that cause?}
+    D -- Yes --> F{What caused it?}
+    F -- Unknown / competing causes --> G[Do not assume Eric or 50/50 caused it]
+    F -- Supported cause --> H{Does requested remedy address that cause?}
     H -- No --> I[Remedy mismatch]
-    H -- Yes --> J[Then reach best-interest / conservatorship analysis]
+    H -- Yes --> J[Best-interest / conservatorship analysis]
 ```
 
 ## Enforcement
 
 ```mermaid
 flowchart TD
-    A[Exact decree command] --> B[Date/time/place of required act]
-    B --> C{Was there a genuine ambiguity or agreed modification?}
+    A[Exact decree command] --> B[Required date / time / place]
+    B --> C{Ambiguity or agreed modification?}
     C -- Yes --> D[Interpretation / defense issue]
-    C -- No --> E{Did the required exchange or act occur?}
+    C -- No --> E{Did required act occur?}
     E -- Yes --> F[No completed possession violation]
     E -- No --> G[Notice + refusal + corroborating proof]
-    G --> H[Counsel applies enforcement / contempt elements]
+    G --> H[Apply enforcement / contempt elements]
 ```
 
-The repository should force both sides of the case through these structures rather than treating accusation as proof.
+The repository should force every important contention through one of these structures rather than treating accusation as proof.
 
 ---
 
-# The more provocative theory — useful only if the proof carries it
+# Deposition strategy: convert narrative into admissions
 
-Eric's deeper theory is that the litigation narrative may reflect **conflict-state accusations and a longstanding felt entitlement to greater custody**, rather than a stable belief that he is actually unsafe, irresponsible, or incapable.
+The goal is not a theatrical cross-examination script. It is to remove ambiguity before trial.
 
-There is now some historical support for examining that possibility carefully:
+For every material Sana allegation, lock down:
 
-- Sana's own 2014 email says she `said something to hurt you` during conflict;
-- she distinguished fight-language from what she believed about Eric `at his core`;
-- she acknowledged acting `out of spite`;
-- she acknowledged using young Rayan in an adult conflict to affect Eric's behavior;
-- later she described herself as `desperate for validation for someone to accept me`;
-- contemporaneous records confirm marriage counseling with **Dr. David Whiteaker**;
-- in 2022, Eric was already writing in TalkingParents that marriage counseling had addressed a `fear of abandonment` and behavior that could `promote abandonment` — years before this case presentation was assembled.
+1. **Exact factual allegation** — what precisely does she contend Eric did or failed to do?
+2. **Date of onset** — when did it first happen?
+3. **Pre-4/15/2021 history** — did the same concern already exist before the operative order?
+4. **Personal knowledge** — what did she actually observe versus hear from someone else?
+5. **Proof** — document, witness, school record, medical record, recording, expert opinion?
+6. **Child impact** — what objectively happened to Rayan or Aleena because of it?
+7. **Causation** — what establishes that Eric / his household / equal possession caused that impact?
+8. **Remedy** — what evidence shows the custody change she seeks would solve it?
+9. **Alternative explanations** — what competing facts has she considered?
+10. **Prior inconsistent statements / conduct** — TalkingParents, prior pleadings, counseling history, emails, activities, possession behavior.
 
-That is **not a diagnosis**, and it is not necessary to win the threshold material-change argument. It is potentially relevant as chronology, credibility, motive/pretext context, and explanation for why accusations can be intense while the underlying parenting arrangement continues to function.
+[→ Sana deposition control matrix](depositions/sana-deposition-control-matrix.md)  
+[→ Sana deposition plan](depositions/sana-deposition-plan.md)
 
-[→ Historical relationship / Whiteaker evidence](reviews/historical-relationship-email-evidence.md)  
-[→ Click directly into Gmail / Drive proof](index/evidence-links.md)
+Post-deposition, the target artifact becomes:
 
----
-
-# A pattern worth counsel's attention: custody as leverage
-
-One recurring fact pattern is more concrete than psychology:
-
-**cooperation, compromise, peace, child activities, or compliance disputes become linked to Eric agreeing that Sana should receive more custody.**
-
-Examples include repeated `deserve more time` language, litigation tied to ending 50/50, extracurricular participation / cooperation being conditioned on more time, and the March 2024 Thursday-possession dispute being expressly accompanied by `WILL NOT BE DOING 50% CUSTODY` and `DESERVE TO HAVE MORE TIME` language.
-
-That may matter because it allows motive/pretext to be tested from **conduct and chronology**, not mind-reading.
-
-[→ “Deserve” chronology](index/deserve-language.md)  
-[→ Gymnastics / taekwondo pattern](reviews/extracurricular-gymnastics-taekwondo-pattern.md)  
-[→ Decree compliance chronology](enforcement/decree-compliance-chronology.md)
+`ISSUE → PRIOR POSITION → DEPOSITION ANSWER → PAGE/LINE → PROOF → CONTRADICTION / CORROBORATION → TRIAL USE`
 
 ---
 
-# Proof ledger — current state of the case
+# Evidence model
 
-| Proposition | Current proof state | Best evidence | Main weakness / question |
-|---|---|---|---|
-| Major allegations existed before 4/15/21 | **Strong** | TalkingParents chronology | Legal significance depends on exact modification standard |
-| Sana wanted greater / primary custody before current alleged changes | **Strong** | Repeated `deserve` statements beginning 2019–21 | Desire alone does not invalidate later genuine concerns |
-| 50/50 became newly unsafe after 4/15/21 | **Not presently established** | Opposing allegations exist | Need objective new condition + causation + remedy nexus |
-| Rayan experienced genuine behavioral deterioration | **Strong** | 2025–26 school records | Cause remains unresolved |
-| Eric / equal possession caused Rayan's deterioration | **Not presently established** | No neutral causal finding found | Competing emotional / peer / developmental explanations |
-| Child emotional pressure around parental conflict exists | **Strong / multi-source** | Heidi, child writings, texts | Some sources are child reports and need authentication/context |
-| Sana's conflict-state statements may differ from stable assessments | **Partially corroborated** | 2014 emails + positive parenting assessments | Do not overgeneralize one historical pattern to every allegation |
-| Activities / cooperation have been used as custody leverage | **Strong examples** | TalkingParents gymnastics / compromise statements | Need counsel to define legal relevance |
-| Multi-year decree-compliance pattern exists | **Strong chronology; legal classifications pending** | 2021, 2022, 2025, 2026 possession events + surrounding disputes | Each event must be tested against exact order and enforcement law |
-| 2026 summer event was entirely unforeseeable / accidental | **Record cuts against this** | months of advance written dispute and refusal language | Sana may have a legal interpretation defense; counsel must test it |
-| Eric wants to erase Mom from the children's lives | **Contradicted by stated position and multiple conduct examples** | offers of contact/flexibility, co-parent lunches, current remedy position | Opponent may argue rhetoric / implementation inconsistencies |
+Every significant proposition should ultimately become:
+
+> **ASSERTION → PROOF → CONTEXT / COUNTER-READING → LEGAL RULE → DECISION → TRIAL USE**
+
+That means the repository is intentionally not advocacy-only.
+
+Facts are kept even when they are adverse to Eric. Ambiguous evidence gets both a litigation-risk reading and a defense / context reading. Historical accusations are separated from objective proof. Child statements are not automatically treated as independently proven adult conduct.
+
+[→ Adverse facts / strongest opposing readings](analysis/adverse-facts.md)  
+[→ Clickable evidence registry — Gmail + Google Drive](index/evidence-links.md)
 
 ---
 
-# The case is now being built forward toward trial
+# A secondary credibility / pretext hypothesis — use only if counsel thinks it helps
 
-This repository is no longer only a historical evidence review. The target architecture is:
+There is historical evidence worth preserving, but it should not become the center of the case unless the law and admissibility support it.
 
-`CASE THEORY → CLAIMS / DEFENSES → PROOF → DEPOSITIONS → ADMISSIONS → WITNESSES → EXHIBITS → OPENING → EXAMINATIONS → CLOSING`
+Sana's own historical communications include examples where she:
 
-### Current preparation artifacts
+- said she had said something specifically **to hurt Eric** during conflict;
+- distinguished fight-language from what she believed about him **“at his core”**;
+- acknowledged acting **out of spite**;
+- acknowledged using young Rayan in an adult conflict to affect Eric's behavior;
+- later described herself as **“desperate for validation for someone to accept me.”**
 
-- **[Case-to-trial map](strategy/case-to-trial-map.md)** — overall architecture from factual theory through trial presentation.
-- **[Sana deposition plan](depositions/sana-deposition-plan.md)** — issue-by-issue areas counsel may want locked down under oath.
-- **[Sana deposition control matrix](depositions/sana-deposition-control-matrix.md)** — proposition, known evidence, objective, possible answer consequences, and proof links.
-- **[Decree compliance / enforcement chronology](enforcement/decree-compliance-chronology.md)** — violation, threat, misunderstanding, and allegation timeline.
+The couple also attended marriage counseling with **Dr. David Whiteaker**. Eric's 2022 TalkingParents messages already memorialized his understanding that counseling had discussed a **fear of abandonment** and behavior that could **promote abandonment**.
 
-The post-deposition target is an admission ledger:
+This is **not a diagnosis** and does not prove later accusations false. Its narrower possible use is credibility / chronology / context if Sana presents her negative assessment of Eric as stable, longstanding, and unaffected by conflict state.
 
-`ISSUE → PRIOR POSITION → DEPOSITION ANSWER → PAGE/LINE → PROOF → CONTRADICTION/CORROBORATION → TRIAL USE`
+[→ Historical relationship / Whiteaker evidence](reviews/historical-relationship-email-evidence.md)
 
 ---
 
-# What would change our view?
+# Proof ledger — where the model stands today
 
-This repository is designed to be falsifiable.
+| Proposition | Current proof state | Main unresolved question |
+|---|---|---|
+| Major allegation categories existed before 4/15/21 | **Strong** | exact legal effect under modification law |
+| Sana wanted greater / primary custody before current alleged changes | **Strong** | desire alone does not defeat later genuine concerns |
+| 50/50 became newly unsafe after 4/15/21 | **Not presently established** | what objective new evidence proves this? |
+| Rayan experienced genuine behavioral deterioration | **Strong** | what caused it? |
+| Eric / equal possession caused Rayan's deterioration | **Not presently established** | neutral causal evidence? |
+| Child emotional pressure around parental conflict exists | **Strong / multi-source** | authentication / context for some child-sourced material |
+| Activities / cooperation have been linked to custody demands | **Strong examples** | legal significance |
+| Multi-year decree-compliance pattern exists | **Strong factual chronology; legal classification pending** | which events are actionable vs contextual? |
+| 2026 summer event was wholly unforeseeable / accidental | **Record cuts against this** | Sana's legal interpretation defense |
+| Historical conflict-state / stable-assessment contrast exists | **Partially corroborated** | admissibility, remoteness, proper use |
 
-The case model should change if we find reliable evidence of any of the following:
+---
+
+# What would change the current case model?
+
+The model should change if reliable evidence shows any of the following:
 
 - a genuinely new post-4/15/2021 condition caused by Eric that materially harmed the children;
 - neutral professional evidence tying equal possession or Eric's household to Rayan's deterioration;
-- proof that reducing Eric's rights/possession would actually remedy the identified harm;
-- strong evidence that the current schedule itself — rather than parental conflict around it — is the problem;
-- evidence undermining the credibility/authenticity/context of child, counselor, school, or historical-email materials;
-- decree language, agreements, or legal authority showing that any event currently flagged as an enforcement candidate was actually authorized or excused.
+- evidence that reducing Eric's rights / possession would actually remedy the identified harm;
+- evidence that the schedule itself — rather than conflict surrounding it — is harming the children;
+- evidence undermining authenticity or context of child, counselor, school, email, or TalkingParents material;
+- decree language, agreements, waiver, impossibility, or other authority showing a currently flagged enforcement event was authorized or excused.
 
-[→ Eric adverse-facts file](analysis/adverse-facts.md)
-
-The objective is not to make Eric look perfect. It is to make the **decision path honest**.
+The point is not to make Eric look perfect. It is to make the case model **falsifiable and courtroom-useful**.
 
 ---
 
-# For Bruman / Erika: attack the model
+# Build path from here to trial
 
-The highest-value contribution from counsel is increasingly **legal calibration and trial judgment**, not generic summarization.
+`CASE THEORY → CLAIMS / DEFENSES → PROOF → DISCOVERY → DEPOSITIONS → ADMISSIONS → WITNESSES → EXHIBITS → OPENING → EXAMINATIONS → CLOSING`
 
-### Please start here:
-## **[Legal decision rules — attorney input requested](law/decision-rules.md)**
+### Current working artifacts
 
-We need counsel to attack both lanes:
-
-### Modification
-1. What exactly counts as a material and substantial change here?
-2. How should pre-existing allegations be treated when they continue after the order?
-3. What nexus must exist between a changed condition and the specific modification requested?
-4. What rights / tie-breakers could create flexibility without unnecessarily changing parenting time?
-
-### Enforcement
-5. Which of the 2021 / 2022 / 2025 / 2026 possession events are legally actionable violations?
-6. What exact decree language and contempt/enforcement elements must be mapped for each?
-7. Which older events are useful as pattern/intent/notice evidence even if they are not independently enforceable now?
-8. What defenses — ambiguity, waiver, agreement, impossibility, cure, replacement time, notice — matter?
-
-### Evidence / trial
-9. Which evidence is likely admissible, impeaching, remote, privileged, hearsay, or strategically distracting?
-10. What proposition are we missing that you would need to prove or defeat at hearing/trial?
-
-If you disagree with the model, **great** — identify the rule or fact that breaks it. That is the intended workflow.
+- **[Case-to-trial map](strategy/case-to-trial-map.md)** — overall litigation architecture.
+- **[Sana deposition control matrix](depositions/sana-deposition-control-matrix.md)** — proposition / proof / objective / answer consequences.
+- **[Sana deposition plan](depositions/sana-deposition-plan.md)** — detailed questioning strategy.
+- **[Decree compliance chronology](enforcement/decree-compliance-chronology.md)** — violation / threat / ambiguity / allegation timeline.
+- **[Legal decision rules](law/decision-rules.md)** — where counsel can correct the engine.
 
 ---
 
 # Drill anywhere
 
-### Core analysis
+### Core case analysis
 - [Material-change synthesis](analysis/material-change-synthesis.md)
 - [Claim-by-claim material-change matrix](analysis/claim-by-claim-material-change-matrix.md)
 - [Rayan behavior causation hypotheses](analysis/rayan-behavior-causation-hypotheses.md)
 - [Adverse facts / strongest opposing readings](analysis/adverse-facts.md)
+- [Case theory / remedy framing](notes/case-theory.md)
+
+### Enforcement
 - **[Decree compliance / enforcement chronology](enforcement/decree-compliance-chronology.md)**
 
 ### Deposition / trial preparation
@@ -280,10 +307,21 @@ If you disagree with the model, **great** — identify the rule or fact that bre
 
 ---
 
-# Repository rule
+# Counsel's role in this workflow
 
-Every important proposition should eventually be reducible to:
+Treat this as an agile case-development loop:
 
-> **ASSERTION → PROOF → CONTEXT / COUNTER-READING → LEGAL RULE → DECISION → TRIAL USE**
+**Eric / AI evidence engine → finished factual artifact → Bruman / Erika legal review → correction / prioritization → next artifact.**
 
-That is the end state: not a giant divorce archive, but a case that can be understood in five minutes, audited to the source in one click, and carried forward into deposition and trial preparation.
+The highest-value feedback is specific:
+
+- **wrong legal rule**;
+- **inadmissible / privileged / too remote**;
+- **missing fact or element**;
+- **wrong inference**;
+- **stronger opposing interpretation**;
+- **better deposition question**;
+- **better remedy theory**;
+- **better trial theme**.
+
+If something here is wrong, mark it. If something is useful, drill into it. If something is missing, tell the engine what you need and it can be built.
