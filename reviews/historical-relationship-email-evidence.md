@@ -36,15 +36,21 @@ This is stronger than Eric merely testifying today that the pattern existed. How
 
 A historical Gmail chat contains Sana telling Eric: `I really really didn't mean to hurt you. If I caused you pain I'm sorry.` The surrounding chat returns quickly to love, missing him, wanting him home, and concern that he not be unhappy.
 
-Another historical chat preserved by Eric records him confronting a recurring cycle after a severe conflict statement: `Please do not change it 2 days from now and say that you didn't mean it.` Standing alone, Eric's statement is not proof of Sana's conduct, but it is contemporaneous evidence that he was already describing the same conflict/retraction cycle years before the divorce.
+Another historical chat preserved by Eric records him confronting a recurring cycle after a severe conflict statement. Sana had reportedly just told him, `Get out of the fucking car, I wish you were dead.` Eric responded in the chat: `Please do not change it 2 days from now and say that you didn't mean it.` Standing alone, Eric's statement is not proof of Sana's conduct or later retraction, but it is contemporaneous evidence that he was already describing the same conflict/retraction cycle years before the divorce.
+
+Other early chats show rapid movement from intense conflict back into attachment/repair language, including Sana saying she loved Eric and did not want to fight, apologizing if she hurt him, asking whether he hated her, and expressing worry about relational distance. These are supporting pattern evidence only; they should not be treated as admissions that every angry statement was insincere.
 
 ### Significance
 
-The first item is direct party-authored remorse after conflict. The second is not an admission by Sana, but may be useful as a contemporaneous corroborating marker that Eric's present recollection of a recurring `said in anger → later retracted/contextualized` cycle is not newly invented for litigation.
+The direct Sana-authored items show remorse and relational repair after conflict. Eric's contemporaneous statement is not an admission by Sana, but may be useful as a contemporaneous corroborating marker that his present recollection of a recurring `said in anger → later retracted/contextualized` cycle is not newly invented for litigation.
 
 ## 2018 — self-described validation / acceptance distress
 
 During the late-marriage conflict in October 2018, Sana wrote that she was `tired of feeling trapped and desperate for validation for someone to accept me.` In a separate exchange she wrote that she did not like `the person I become around you` while also attributing that change to her view of how Eric treated her.
+
+A February 2018 email also expressly references prior therapy: `That's not what we learned in therapy Eric!` This confirms that the couple had an articulated therapeutic framework/protocol for handling conflict, although the email itself does **not** identify an abandonment wound or describe the specific counseling formulation Eric now remembers.
+
+Sana also forwarded Eric a CFISD `Anger Management` parent-training notice in October 2018. That fact should not be overread; absent surrounding context, it does not establish that she believed she personally had an anger problem.
 
 ### Significance and caution
 
@@ -73,6 +79,34 @@ Sana wrote that she loved how Eric took care of `me and the kids every day` and 
 ### Significance
 
 This is relatively close in time to the parties' later marital breakdown and directly contradicts any simplistic historical narrative that Sana always regarded Eric as uninvolved, uncaring, or incapable as a parent.
+
+## Search result on the specific `abandonment wound` recollection
+
+A broad Gmail search was run across the known Sana addresses for variations of:
+
+- `abandon`, `abandonment`, `fear of abandonment`;
+- `push away`, `afraid you'll leave`, `scared you'll leave`;
+- `didn't mean`, `don't mean it`, `said it because`, `to hurt you`;
+- `therapy`, `counselor`, `wound`, `validation`, `acceptance`, `rejection`;
+- `anger`, `spite`, `being mean`, `sorry I hurt you`.
+
+### Current result
+
+No email has yet been located in which Sana herself uses the phrase `abandonment wound` or expressly writes the full mechanism Eric remembers: fear of abandonment → attack/push away first → later acknowledgment that the attack did not reflect her regulated belief.
+
+What **has** been located is partial written corroboration of several components of that mechanism:
+
+1. Sana says small conflicts become mountains and connects her reaction partly to her past.
+2. Sana admits saying something specifically `to hurt you`.
+3. Sana later explains that the statement did not carry the enduring meaning Eric took from it.
+4. Sana distinguishes a fight insult from what she believes about Eric `at [his] core`.
+5. Sana admits acting `out of spite`.
+6. Sana admits using Rayan in the dispute in order to change Eric's behavior.
+7. Sana later describes herself as `desperate for validation for someone to accept me`.
+8. Contemporaneous Eric communications describe the same retraction cycle years before litigation.
+9. The written record confirms the couple had therapy and an agreed relational framework, but the exact counseling formulation has not yet been found in writing.
+
+That is significant corroboration, but it should be described as **component-level corroboration**, not as documentary proof of the counselor's exact abandonment-wound formulation.
 
 ## Important counter-context
 
@@ -103,4 +137,4 @@ Historical Gmail searches confirmed these Sana addresses in Eric's mailbox:
 - `sana_06@sbcglobal.net`
 - older secondary address observed: `sana_akhtar@sbcglobal.net`
 
-Further targeted searches should focus on phrases around apologies, anger, `didn't mean`, `hurt you`, `great dad/father`, parenting praise, counseling, abandonment, validation, acceptance, fear of rejection, pushing away, and post-conflict retractions rather than treating ordinary household email traffic as evidence.
+Further targeted work should focus less on broad keyword searches and more on: full-thread review around major 2011–2014 fights; identifying the marriage counselor by name; searching both parties' emails for that counselor's address/name; and locating any post-session summaries or homework that might preserve the exact therapeutic formulation.
