@@ -21,7 +21,7 @@ The strongest current factual issue is Rayan's documented 2025–26 behavioral d
 ## Current work
 
 - **[Case / event log](index/events.csv)** — dated events and evidence references.
-- **[Eric discovery responses — source needed](discovery/eric-discovery-responses.md)** — repository locator for Eric's prior interrogatory / production responses.
+- **[Eric's served interrogatory responses](discovery/eric-discovery-responses.md)** — indexed 8/20/26 response set; production response is the `2026 modification case` Google Drive evidence corpus already mapped by this repository.
 - **[Proposed discovery to Sana](discovery/proposed-discovery-to-sana.md)** — counsel-ready interrogatory and production subjects derived from the evidence model.
 - **[Sana deposition control matrix](depositions/sana-deposition-control-matrix.md)** — issues to lock down under oath after written discovery.
 - **[Decree compliance / enforcement chronology](enforcement/decree-compliance-chronology.md)** — separate enforcement lane.
@@ -38,7 +38,7 @@ The strongest current factual issue is Rayan's documented 2025–26 behavioral d
 
 - **[Clickable evidence registry](index/evidence-links.md)** — direct proof links.
 - **[Allegation matrix](index/allegations.md)** — allegation history and evidence gaps.
-- **[Source inventory](index/source-index.md)** — source catalog.
+- **[Source inventory](index/source-index.md)** — source catalog, including the Google Drive production corpus.
 - **[Evidence reviews](reviews/)** — school, therapist, child messages/writings, activities, historical communications, and TalkingParents review passes.
 
 ## Trial / legal
