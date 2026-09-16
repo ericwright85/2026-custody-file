@@ -18,7 +18,7 @@
 
 | Date | Event | Be ready for |
 |---|---|---|
-| **Sep. 24, 2026 — 9:00 a.m.** | **Enforcement hearing — 245th District Court** | Prove the 8/2/26 possession event with the decree, designation/notice history, no-agreement record, failed exchange, and requested relief. **[Enforcement chronology →](enforcement/decree-compliance-chronology.md)** |
+| **Sep. 24, 2026 — 9:00 a.m.** | **Enforcement hearing — 245th District Court** | Prove the 8/2/26 event from the decree + designation history + no-agreement record + failed exchange; address Sana's swap theory; decide whether to use 2025 pattern evidence and Rayan's provider-documented 8/6/26 missed ortho appointment. **[2026 enforcement proof map →](enforcement/2026-enforcement-evidence-index.md)** |
 | **TBD / in progress** | **Written discovery to Sana** | Get Sana committed to: `WHAT CHANGED → WHEN → HARM → CAUSATION → PROOF → RELIEF → WHY RELIEF HELPS`. Erika advised 9/15 that she is working on discovery for Sana. **[Proposed interrogatories + RFPs →](discovery/proposed-discovery-to-sana.md)** |
 | **Oct. 5, 2026 — 9:00 a.m.–1:00 p.m.** | **Sana oral deposition — Bruman & Associates** | Compare Sana's sworn position to written discovery and the historical record; lock down material change, causation, requested remedy, child involvement, and contradictions/corroboration. **[Deposition control matrix →](depositions/sana-deposition-control-matrix.md)** |
 | **Not yet indexed** | Trial / additional hearings / discovery deadlines | Add immediately when a notice, scheduling order, or counsel confirmation is received. |
@@ -29,7 +29,7 @@
 
 ## Right now
 
-**1. Prepare Sep. 24 enforcement.** Make the 8/2/26 event easy to prove and distinguish it from mere decree disagreements or threats. **[Open enforcement file →](enforcement/decree-compliance-chronology.md)**
+**1. Prepare Sep. 24 enforcement.** Start with the hearing-specific proof map; use the longer chronology only when historical pattern/comparator evidence is needed. **[Open 2026 enforcement proof map →](enforcement/2026-enforcement-evidence-index.md)** · **[Longitudinal decree chronology →](enforcement/decree-compliance-chronology.md)**
 
 **2. Serve useful discovery on Sana.** The goal is not volume; it is to force the present modification theory into testable propositions before deposition. **[Open proposed discovery →](discovery/proposed-discovery-to-sana.md)**
 
@@ -39,6 +39,7 @@
 
 ## Working case file
 
+- **[2026 enforcement evidence index](enforcement/2026-enforcement-evidence-index.md)** — hearing-specific evidence map with direct Drive links, source limitations, Sana's likely defense, historical comparators, and proof priorities.
 - **[Eric's actual served interrogatory responses](discovery/eric-discovery-responses.md)** — substantive answers are reproduced here; not merely an index. The `2026 modification case` Google Drive folder is Eric's production corpus.
 - **[Proposed discovery to Sana](discovery/proposed-discovery-to-sana.md)** — interrogatories and production requests for Bruman/Erika to adapt and serve.
 - **[Case / evidence log](index/events.csv)** — detailed historical chronology. Historical evidence dates live here rather than cluttering this dashboard.
