@@ -6,7 +6,7 @@
 
 **Two live lanes:** **Modification** — Sana seeks greater custody / possession / authority; Eric's present position is that the existing shared arrangement should remain unless a material post-**4/15/2021** change is actually proved and the requested remedy is shown to address it. **Enforcement** — Eric separately seeks enforcement arising from the **8/2/2026** summer-possession withholding.
 
-**What appears important now:** Rayan's 2025–26 behavioral deterioration is real and comparatively new, but causation remains unresolved. Much of the broader parenting/custody conflict and many allegation categories predate the operative order, so the central modification question remains: **what actually changed, what harm did it cause, and why would Sana's requested modification fix it?**
+**What appears important now:** Rayan's 2025–26 behavioral deterioration is real and comparatively new, but causation remains unresolved. Much of the broader parenting/custody conflict and many allegation categories predate the operative order, so the central modification question remains: **what actually changed, what harm did it cause, and why would Sana's requested modification fix it?** A newly indexed research lane asks whether a longstanding parent-parent conflict became a materially different **child-parent / child-litigation relationship-interference problem** by 2025–26.
 
 **Family objective:** preserve Rayan's and Aleena's meaningful relationships with both parents while reducing the amount of adult custody conflict they carry. The repository is intended to determine what the evidence supports, including evidence adverse to Eric—not to manufacture a predetermined result.
 
@@ -42,6 +42,9 @@
 - **[2026 enforcement evidence index](enforcement/2026-enforcement-evidence-index.md)** — hearing-specific evidence map with direct Drive links, source limitations, Sana's likely defense, historical comparators, and proof priorities.
 - **[Eric's actual served interrogatory responses](discovery/eric-discovery-responses.md)** — substantive answers are reproduced here; not merely an index. The `2026 modification case` Google Drive folder is Eric's production corpus.
 - **[Proposed discovery to Sana](discovery/proposed-discovery-to-sana.md)** — interrogatories and production requests for Bruman/Erika to adapt and serve.
+- **[Parental relationship-interference evidence map](analysis/parental-relationship-interference-map.md)** — dated Wright evidence, adverse evidence, before/after models, and falsification tests for the conduct often labeled `parental alienation`.
+- **[Texas parental-alienation / relationship-interference law](law/parental-alienation-texas.md)** — statutes and Texas/Houston appellate cases, including material-change and remedy implications.
+- **[245th Family Court research](law/245th-family-court-research.md)** — same-court appellate history and current-court public information without judge profiling.
 - **[Case / evidence log](index/events.csv)** — detailed historical chronology. Historical evidence dates live here rather than cluttering this dashboard.
 - **[Claim-by-claim modification matrix](analysis/claim-by-claim-material-change-matrix.md)** — what Sana alleges, whether it is actually new, what proves it, and what remains unresolved.
 - **[Evidence links](index/evidence-links.md)** — quickest route from an assertion to available primary proof.
