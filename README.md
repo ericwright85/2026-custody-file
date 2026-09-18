@@ -43,6 +43,7 @@
 - **[Eric's actual served interrogatory responses](discovery/eric-discovery-responses.md)** — substantive answers are reproduced here; not merely an index. The `2026 modification case` Google Drive folder is Eric's production corpus.
 - **[Proposed discovery to Sana](discovery/proposed-discovery-to-sana.md)** — interrogatories and production requests for Bruman/Erika to adapt and serve.
 - **[Parental relationship-interference evidence map](analysis/parental-relationship-interference-map.md)** — dated Wright evidence, adverse evidence, before/after models, and falsification tests for the conduct often labeled `parental alienation`.
+- **[Weekday activities / school involvement review](reviews/weekday-activities-school-involvement.md)** — Cub Scouts 533/469, gymnastics, taekwondo, soccer, first-day volunteering, classroom involvement, and the evidence gaps needed to test weekday-possession consequences.
 - **[Texas parental-alienation / relationship-interference law](law/parental-alienation-texas.md)** — statutes and Texas/Houston appellate cases, including material-change and remedy implications.
 - **[245th Family Court research](law/245th-family-court-research.md)** — same-court appellate history and current-court public information without judge profiling.
 - **[Case / evidence log](index/events.csv)** — detailed historical chronology. Historical evidence dates live here rather than cluttering this dashboard.
