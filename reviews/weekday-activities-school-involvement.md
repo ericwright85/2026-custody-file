@@ -94,7 +94,25 @@ This is useful because it turns dual enrollment from rhetoric into actual facili
 
 The Drive/Gmail corpus contains Pack 533 advancement/purchase records in 2022–23, a Pack 533 Cubmaster planning sheet, 2023–24 Pack 533 event notices, and Pack 469 newsletters/reminders into 2024–25.
 
-Further work is needed to convert these into an **attendance-by-parent** ledger. Receiving emails is not proof of physical attendance.
+A contemporaneous **Scout Events** spreadsheet from late 2021 already provides a small custody/attendance sample:
+
+| Date | Event | Recorded status | Custody | Non-custodial attendance recorded? |
+|---|---|---|---|---|
+| 10/7/21 | Pack 533 pack meeting | Absent | Sana | Yes |
+| 10/16/21 | Pack 469 den meeting | Attended | Eric | No |
+| 10/21/21 | Pack 533 den meeting | Absent | Sana | Yes |
+| 10/26/21 | Pack 469 Halloween pack meeting | Attended | Eric | Yes |
+| 10/28/21 | Pack 533 Halloween party | Attended | Eric | No |
+| 11/11/21 | Pack 533 pack meeting | Attended | Eric | No |
+| 11/17/21 | Pack 533 den meetings | Absent | Sana | Yes |
+
+**Source:** [Scout Events spreadsheet](https://docs.google.com/spreadsheets/d/1OK9AL-Eo-t7U44480JWXlXlgYPD9ht2t1gQJXwsoOIs/edit)
+
+This is useful but not yet self-authenticating proof of attendance. The sheet appears to be an Eric-maintained tracking document, so Scoutbook/pack records, photos, leader testimony, calendar entries, or other contemporaneous records should corroborate it before trial use.
+
+A **11/10/2023 Pack 469 recharter email** was sent to Eric concerning Scouts on the roster who had **not been active that school year** and asked whether the Scout intended to remain. Because the email was BCC'd and does not name Rayan in the body, it is evidence that Eric was on the inactive-roster outreach list, but it should not be presented as conclusive proof of Rayan's inactivity without roster confirmation.
+
+Further work is needed to convert the broader record into an **attendance-by-parent** ledger. Receiving emails is not proof of physical attendance.
 
 ---
 
@@ -196,9 +214,15 @@ This is clean evidence that Eric affirmatively invited Sana to participate with 
 
 For the 2025–26 school year, teacher **Jaime Morris** directly emailed Eric and another parent regarding **Color Run and Field Day plans**, including student lists and event planning.
 
-This corroborates that Eric was performing a substantive class-volunteer / parent-helper role in Aleena's third-grade class.
+That is now reinforced by a direct **4/6/2026 Volunteer Appreciation Lunch** invitation from Morris to Eric alone:
 
-**Current limitation:** the located emails do not themselves use the exact title **"assistant homeroom parent."** If that title matters, locate the PTO/teacher designation or signup record.
+> "Thank you for all you do, I couldn't do it without you!"
+
+This is stronger evidence of substantive classroom/school volunteer participation than merely being copied on a school mailing.
+
+The Color Run / Field Day thread also shows Morris addressing **Janna Armstrong and Eric together** for event logistics and student-count planning.
+
+**Current limitation:** the located emails still do not themselves use the exact title **"assistant homeroom parent."** The evidence strongly supports an active parent-helper / volunteer role; if the formal title matters, locate the PTO/teacher designation or signup record.
 
 ## Watch DOGS
 
