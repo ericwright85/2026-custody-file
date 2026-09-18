@@ -198,6 +198,44 @@ Each entry follows the same pattern:
 
 ---
 
+## Weekday activities / school continuity
+
+### ACT-SCOUT-2022-001 — Pack 469 meeting prompt and disputed attendance
+
+**Assertion:** Sana affirmatively prompted a Pack 469 meeting during Eric's possession; Eric initially agreed, then became unsure after reporting that Rayan objected and was injured.
+
+**Proof:** [Open Pack 469 Gmail thread](https://mail.google.com/mail/#all/1835b9cb0d2d450e) · [Open flag-ceremony thread](https://mail.google.com/mail/#all/182fc0b32c1a2663)
+
+**Commentary:** These chains are contrary evidence to an overbroad claim that only Eric facilitated Scouts. The Pack 469 chain does not resolve whether Rayan ultimately attended. In the second thread, Eric chose a birthday party over the Scout ceremony—a facially ordinary scheduling choice, not obstruction. His insulting diagnostic rhetoric in the Pack 469 chain is independently adverse.
+
+### ACT-SOCCER-2022-001 — Tomball soccer-camp registration
+
+**Assertion:** Sana initiated or transmitted a soccer-camp registration opportunity for Rayan.
+
+**Proof:** [Open Gmail thread](https://mail.google.com/mail/#all/1812690f724d3c02)
+
+**Commentary:** The thread proves registration activity and Rayan's stated interest, not completed payment, transportation, or attendance.
+
+### ACT-BAND-2025-001 — band clothing coordination
+
+**Assertion:** Sana communicated with Rayan's band director and Eric to resolve missing shirt/hoodie records.
+
+**Proof:** [Open Gmail](https://mail.google.com/mail/#all/199ba942d6ae013e)
+
+**Commentary:** Favorable evidence of Sana's activity administration. It is not proof of concert attendance.
+
+### ACT-FOOTBALL-2026-001 — football game-meal order
+
+**Assertion:** Sana handled an order for Rayan's football game meals and asked Eric to share the cost.
+
+**Proof:** [Open Gmail](https://mail.google.com/mail/#all/1a043ab25f5b12ba)
+
+**Commentary:** Current favorable evidence of logistical involvement. It does not prove practice/game transportation or attendance.
+
+[→ Full weekday activities / school review](../reviews/weekday-activities-school-involvement.md)
+
+---
+
 ## Source-linking rule going forward
 
 Whenever practical, every promoted proposition should have:

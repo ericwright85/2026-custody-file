@@ -112,6 +112,22 @@ This is useful but not yet self-authenticating proof of attendance. The sheet ap
 
 A **11/10/2023 Pack 469 recharter email** was sent to Eric concerning Scouts on the roster who had **not been active that school year** and asked whether the Scout intended to remain. Because the email was BCC'd and does not name Rayan in the body, it is evidence that Eric was on the inactive-roster outreach list, but it should not be presented as conclusive proof of Rayan's inactivity without roster confirmation.
 
+## September 2022 — a concrete Pack 469 counterexample
+
+The later record does not support a simple claim that Sana abandoned Pack 469 while Eric always facilitated it.
+
+On **9/20/2022**, Sana forwarded the Pack 469 meeting notice and asked whether the children would attend. Eric initially answered, **"For sure. Sounds fun,"** and said they would also attend Pack 533 that week. Later that day, Eric said Rayan was insisting that he did not want to attend Pack 469, cited Rayan's injury, and said he was unsure they would go. Sana tried to call, objected that Eric had also missed the prior 469 event, and asked to be told if they attended.
+
+This episode cuts both ways:
+
+- Sana affirmatively monitored and promoted a Pack 469 event during Eric's possession.
+- Eric initially agreed to attend but apparently did not commit to attendance after Rayan objected; the located email chain does not establish whether they ultimately went.
+- Eric's follow-up messages used insulting amateur-diagnostic language about Sana (including `narcissistic personality disorder symptoms` and `mental condition`). That rhetoric is adverse evidence and distracts from any legitimate attendance disagreement.
+
+**Source:** Gmail thread `September Pack Meeting is this Tuesday!`, beginning 9/20/2022, message `1835b9cb0d2d450e`.
+
+A separate **9/2-9/8/2022** thread is also balancing evidence: Sana asked whether Eric would take the children to a Scout flag-retirement ceremony and said she would inquire about enrolling Aleena in Girl Scouts. Eric replied that he had planned to attend but chose a child's birthday party instead. That is a facially ordinary scheduling choice, not obstruction, but it further disproves any categorical claim that Sana alone failed to promote Scouting opportunities.
+
 Further work is needed to convert the broader record into an **attendance-by-parent** ledger. Receiving emails is not proof of physical attendance.
 
 ---
@@ -191,6 +207,13 @@ Later Eric documented ending Rayan's enrollment after Rayan lost interest while 
 Soccer appears in the same 2024 activity-continuity dispute as gymnastics, including Sana's statement that she might stop taking the children to soccer/gymnastics and Eric's repeated offers to handle logistics.
 
 The 2026 Gmail record also contains **counterevidence**: Sana communicated directly with Rayan's soccer program, asked for schedule/pricing information, and in January 2026 told the program Rayan wanted to continue Friday practice until ready to join the league.
+
+There is earlier counterevidence as well. On **6/2/2022**, Sana forwarded a Tomball soccer-camp registration confirmation; on **6/17/2022**, she wrote that Rayan wanted to enroll. The emails prove that she initiated or transmitted the registration process, but not payment, attendance, or transportation. Eric's intervening response accused her of unreliable extracurricular support before first resolving whether the camp registration was complete.
+
+Two additional current examples show Sana performing activity-administration work:
+
+- **10/6/2025 — band:** Sana corresponded with Rayan's band director about his shirts/hoodie and forwarded the director's request to Eric. This proves active equipment/payment coordination, not concert attendance.
+- **8/27/2026 — football:** Sana completed or received an order for Rayan's game meals and asked Eric to contribute **$42** toward the **$81** order. This proves current football logistics and cost coordination, not practice/game transportation.
 
 Again, the issue is not whether Sana ever facilitates sports. It is whether recurring commitments are reliably preserved across possession periods and whether one parent allows the other to solve logistical problems without making the child's opportunity part of the custody conflict.
 
@@ -280,10 +303,13 @@ The current record provides meaningful evidence on questions 2–4 and 6. It is 
 
 - Sana initiated Aleena's gymnastics and later actively pursued a 2026 K2 class opening.
 - Sana communicated with Rayan's soccer provider in 2026 and supported his continued Friday practice.
+- Sana initiated or forwarded a 2022 soccer-camp registration, coordinated band clothing with the school in 2025, and handled a football-meal order in 2026.
+- Sana affirmatively asked Eric to take Rayan to a Pack 469 meeting on 9/20/2022; Eric initially agreed, later became unsure after Rayan objected, and the located thread does not prove attendance.
+- Sana also prompted a September 2022 Scout flag ceremony and raised Girl Scouts for Aleena; Eric chose a birthday party over the ceremony.
 - Sana's Pack 469 preference had a facially child-centered explanation: a school-associated pack and peer relationships.
 - Eric initially acknowledged that two Scout packs might be too much before deciding to facilitate dual enrollment.
 - Eric's martial-arts enrollment was disputed as a significant decision made without agreement.
-- Several Eric messages in activity disputes contain accusatory or psychological commentary that could distract from the stronger logistics/attendance evidence.
+- Several Eric messages in activity disputes contain accusatory or psychological commentary that could distract from the stronger logistics/attendance evidence; the 9/20/2022 Pack 469 thread is a particularly clear example.
 - A missed activity can have innocent explanations; the strongest proof requires provider attendance records + custody overlay.
 
 ---

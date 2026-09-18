@@ -267,12 +267,16 @@ Already recurring:
 - martial-arts decision issue;
 - soccer/gymnastics and activity transportation disputes;
 - multiple instances of Eric offering swaps/payment/transportation to support participation.
+- contrary evidence of Sana initiating or administering opportunities, including a 2022 soccer-camp registration, a 2022 Pack 469 meeting prompt, 2025 band-clothing coordination, and a 2026 football-meal order;
+- direct 2024-25 messages connecting extracurricular continuation/compromise to greater custody time, alongside later evidence that Sana again facilitated selected activities.
 
 ### Material-change assessment
 **Current classification: continuity.** Most activity conflict appears to be another expression of longstanding control/communication/possession disagreement rather than a new family condition.
 
 ### Defense presentation
 Use high-value examples where the child's opportunity was concrete and Eric proposed a workable accommodation. Preserve examples where Eric acted unilaterally.
+
+Do not argue that Sana does not support extracurriculars. The record disproves that categorical claim. The narrower, testable remedy question is whether either household fails to preserve established weekday commitments, whether offered transportation is accepted, and whether objective attendance data predicts a continuity problem if weekday possession changes. See [weekday activities / school involvement review](../reviews/weekday-activities-school-involvement.md).
 
 ---
 
