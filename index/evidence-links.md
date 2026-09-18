@@ -232,6 +232,30 @@ Each entry follows the same pattern:
 
 **Commentary:** Current favorable evidence of logistical involvement. It does not prove practice/game transportation or attendance.
 
+### ACT-DANCE-2025-001 — father-daughter dance invitation
+
+**Assertion:** The located certified record initially shows Sana promoting Eric and Aleena's attendance and offering to have Aleena ready.
+
+**Proof:** [Open certified TalkingParents record](https://drive.google.com/file/d/1eM3U8vVEQ1RN_D5uCoLRmUfslRbv6DP4/view) (pp. 50, 53-54)
+
+**Commentary:** This is contrary evidence. Eric recalls a later threat conditioning attendance on an additional $1,000 monthly payment, but that message has not been located. Do not use the recalled condition as fact until the source is found.
+
+### SCHOOL-PARADE-2026-001 — Rock the Block notice and permission slip
+
+**Assertion:** Both parents received the parade notice; Sana affirmatively requested details; Eric later recorded that the teacher called him about an unreturned permission slip.
+
+**Proof:** [Open school/parent Gmail thread](https://mail.google.com/mail/#all/1a0865a3dc9db385) · [Open Eric's working note](https://docs.google.com/document/d/1-47D8mZwYzMHEFd-h9ZItPxRNvjNQ0S1aOBVM0ew4BY/edit)
+
+**Commentary:** The email proves notice and Sana's expressed interest. The missing-slip and teacher-call account currently depends on Eric's note and should be corroborated through the teacher, call log, or replacement form.
+
+### ACT-FOOTBALL-2026-002 — reported post-mediation withdrawal
+
+**Assertion:** Eric contemporaneously memorialized Rayan's report that Sana would stop attending his football games because he recorded her and the recordings surfaced in mediation.
+
+**Proof:** [Open Eric's working note](https://docs.google.com/document/d/1-47D8mZwYzMHEFd-h9ZItPxRNvjNQ0S1aOBVM0ew4BY/edit)
+
+**Commentary:** This proves the existence of Eric's contemporaneous memorialization, not that Sana made the statement. Discovery and deposition should seek Sana's admission/denial, later attendance evidence, and any direct child message or recording.
+
 [→ Full weekday activities / school review](../reviews/weekday-activities-school-involvement.md)
 
 ---

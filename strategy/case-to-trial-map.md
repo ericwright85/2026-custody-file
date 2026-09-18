@@ -55,6 +55,7 @@ Current issue clusters already substantially developed:
 - child involvement in parental conflict;
 - Rayan texts / journals;
 - extracurricular participation and custody leverage;
+- state-dependent facilitation: whether otherwise engaged parenting becomes contingent during money, litigation, custody, or perceived-loyalty conflict;
 - custody-entitlement / `deserve` chronology;
 - historical relationship / conflict-state evidence;
 - Eric adverse facts.
@@ -68,6 +69,8 @@ Every important proposition should use the same structure:
 > **ASSERTION → PROOF → COMMENTARY / COUNTER-READING → LEGAL SIGNIFICANCE**
 
 Proof should link directly to Gmail / Google Drive / TalkingParents / record source when possible.
+
+For the unilateral-authority remedy issue, avoid the overbroad proposition that Sana is generally uninvolved. The narrower model is: `ordinary involvement → adult-conflict trigger → changed facilitation/access position → child-level routine or relationship effect`. Each arrow requires its own proof. A psychological explanation for the trigger is unnecessary unless supported by qualified evidence.
 
 [→ Clickable evidence registry](../index/evidence-links.md)
 

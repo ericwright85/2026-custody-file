@@ -297,6 +297,44 @@ For any proposal to move substantial weekday possession or authority to one pare
 
 The current record provides meaningful evidence on questions 2–4 and 6. It is still too incomplete on questions 1 and 5 for a quantitative conclusion.
 
+## The narrower remedy theory: state-dependent facilitation
+
+Eric's more precise concern is not that Sana lacks ordinary maternal interest. The historical record contains many examples of active involvement. The asserted risk is that **otherwise normal involvement becomes contingent when an activity intersects with money, custody bargaining, litigation, perceived disloyalty, or conflict with Eric**.
+
+That theory should be proved conduct-first rather than through a psychological label:
+
+`ordinary involvement → adult conflict trigger → activity/access position changes → child routine or relationship bears the cost`
+
+### Present proof tiers
+
+**Tier 1 — direct written evidence**
+
+- The October 2024 soccer/gymnastics thread directly connects activity continuation or compromise with more parenting time, child support, and attorney's fees.
+- The 1/26/2025 gymnastics message directly states that, with more time, Sana would be happy to continue taking the children to extracurriculars.
+- These writings support a custody-linked-contingency inference. They do not, standing alone, establish that every later absence was intentional leverage.
+
+**Tier 2 — partially corroborated current events**
+
+- On 9/9/2026, Aleena's teacher emailed both parents about the `Rock the Block` parade. Sana replied asking for time/place details; Eric confirmed attendance after the teacher responded. Eric's 9/11 working journal says the teacher later called because a permission slip sent home during Sana's possession had not been returned and would be resent for Eric to complete. The email chain proves notice and Sana's expressed interest; the missing-slip account currently depends on Eric's contemporaneous note unless the teacher, call record, or replacement slip corroborates it.
+- Eric's 9/13/2026 journal records Rayan reporting that Sana said she would attend no football games because he recorded her and the recordings surfaced in mediation. That is evidence of a contemporaneous child report, **not proof that Sana made the underlying statement**. The proposed discovery already targets this event.
+
+**Tier 3 — unlocated / unresolved lead**
+
+- Eric recalls that Sana threatened to prevent him from taking Aleena to the father-daughter dance unless he paid an additional $1,000 per month. That message has not yet been located in the reviewed sources.
+- The certified TalkingParents record through 8/10/2026 presently cuts the other way at first: on 12/6/2025 Sana sent the dance information, wrote `You need to take Aleena to this!`, and offered to have Aleena ready. Later messages show scheduling and getting-ready disagreements, but the reviewed record does not contain the recalled $1,000 condition. Until the later message or another source is found, use the dance as an evidence lead—not a proved leverage example.
+
+### Remedy relevance if the pattern is proved
+
+The child-centered concern is not punishment for conflict. It is whether granting unilateral authority or substantially greater weekday control would remove the practical checks that currently let the other parent preserve school and activity continuity. The useful questions are:
+
+1. When adult conflict spikes, do the children's established commitments become less reliable?
+2. Are missed activities isolated logistics or part of a repeated contingency pattern?
+3. Does Sana accept Eric's offers to transport during her possession, or treat possession as a veto?
+4. Would unilateral authority make it easier to discontinue activities, restrict the other parent's attendance/access, or condition cooperation on unrelated concessions?
+5. What narrower orders could protect continuity without diminishing either parent—for example, advance notice, shared calendars, direct provider access, transport rights, and a prohibition on unilaterally cancelling established activities?
+
+This theory becomes substantially stronger with provider attendance records, the custody overlay, neutral witnesses, and direct communications proving the asserted trigger-to-consequence sequence.
+
 ---
 
 # Adverse / balancing evidence that must remain in the model
